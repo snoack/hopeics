@@ -1,0 +1,2393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+SUMMARY:$500 Billion Broadband Scandal: It’s Time to Break Up AT&T... Ag
+ ain
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T130000
+UID:0@hope
+ATTENDEE;CN="Bruce Kushnick";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+DESCRIPTION:Speaker: Bruce Kushnick\n\nAmerica was supposed to be a fiber 
+ optic nation and the telecom pipes were supposed to be open to all forms o
+ f competition. Customers paid over half a trillion dollars to make this ha
+ ppen by 2018 - and that’s the low number. Through mergers and the takeov
+ er of the FCC and some state commissions\, today there are only a few comp
+ anies that have taken control of most of America’s broadband\, Internet\
+ , cable TV\, phone\, satellite\, and wireless services. How do we fix net 
+ neutrality\, get back our privacy\, stop the overcharging\, and finally ge
+ t gig speeds and open pipes? Hear how to hold them accountable for their m
+ isdeeds and take the final step: It’s time to break up AT&T\, Verizon\, 
+ and the cable companies... again.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-500-billion-broadband-scandal-it-s
+ -time-to-break-up-at-t-again-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Accessibility\, Dammit!
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T160000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T170000
+UID:1@hope
+ATTENDEE;CN=xio;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+DESCRIPTION:Speaker: xio\n\nAccessibility is for everyone\, and yet not ev
+ eryone is for accessibility. Security has gone from being a layer atop exi
+ sting products to a ubiquitous and pervasive presence in information techn
+ ology. Accessibility should be second nature as well. This talk will delve
+  into the subject and discover where progress is being made and where it i
+ s failing\, where we are and what is on the horizon\, how it overlaps and 
+ how it complements other tech fields\, and why you should be for accessibi
+ lity too.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-accessibility-dammit-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: "And This Is It?" - What Went Wrong with Surveillance Reform Afte
+ r Snowden
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T200000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T210000
+UID:2@hope
+ATTENDEE;CN="Jeff Landale";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+ATTENDEE;CN="Sean Vitka";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:no
+ mail
+ATTENDEE;CN="Marcy Wheeler";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+ATTENDEE;CN="Sue Udry";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:noma
+ il
+ATTENDEE;CN="Alex Marthews";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+DESCRIPTION:Speaker: Jeff Landale\, Sean Vitka\, Marcy Wheeler\, Sue Udry\
+ , Alex Marthews\n\nAfter the passage of the USA Freedom Act\, former NSA d
+ irector Michael Hayden was flabbergasted at the lack of restrictions place
+ d on the NSA. "And this is it after two years? Cool!" What happened? The p
+ anel will discuss the failures of the post-Snowden surveillance reform mov
+ ement and examine the divergences and conflicts between think tanks and gr
+ assroots organizations on strategy\, tactics\, and goals that allowed the 
+ surveillance reform sphere to fail to capitalize on the massive public int
+ erest in domestic and global spying.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-and-this-is-it-what-went-wrong-wit
+ h-surveillance-reform-after-snowden-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ArduTouch Music Synthesizer Kit: Music Generation for Newbies
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T150000
+UID:3@hope
+ATTENDEE;CN="Mitch Altman";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+DESCRIPTION:Speaker: Mitch Altman\n\nThis is an inexpensive Arduino-compat
+ ible musical instrument with a touch keyboard\, amp\, and speaker that any
+ one can make. It is easy to build - designed for total beginners to learn 
+ to solder together. It’s a very low cost method for making music/sound/n
+ oise\, and a fun way to learn digital signal processing (DSP) for generati
+ ng music/sound/noise. This talk will show beginners how the ArduTouch musi
+ c synthesizer kit makes use of DSP to create its large diversity of music/
+ sound/noise. Mitch will also explain how the touch keyboard works\, as wel
+ l as the cheap amplifier/speaker built into the board. The ArduTouch Ardui
+ no library works on any Arduino board and Mitch will demonstrate how to ma
+ ke use of this library to create your own unique synthesizers - both by ha
+ cking some of the many examples it comes with\, or by making use of its hi
+ gh-level functions. This talk will also include a demo of some of the musi
+ c the ArduTouch can make\, as well as some wonderful nasty noise!
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-ardutouch-music-synthesizer-kit-mu
+ sic-generation-for-newbies-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask the EFF: The Year in Digital Civil Liberties
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T130000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T140000
+UID:4@hope
+ATTENDEE;CN="Kurt Opsahl";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+ATTENDEE;CN="Vivian Brown";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+ATTENDEE;CN="Bill Budington";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+ATTENDEE;CN="Sydney Li";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nom
+ ail
+ATTENDEE;CN="Cooper Quintin";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+DESCRIPTION:Speaker: Kurt Opsahl\, Vivian Brown\, Bill Budington\, Sydney 
+ Li\, Cooper Quintin\n\nGet the latest information about how the law is rac
+ ing to catch up with technological change from staffers at the Electronic 
+ Frontier Foundation\, the nation’s premiere digital civil liberties grou
+ p fighting for freedom and privacy in the computer age. This session will 
+ include updates on current EFF issues\, such as the government’s effort 
+ to undermine encryption (and add backdoors)\, the fight for network neutra
+ lity\, discussion of EFF’s technology projects to spread encryption acro
+ ss the web and emails\, updates on cases and legislation affecting securit
+ y research\, and much more. Half the session will be given over to questio
+ n-and-answer\, so it’s your chance to ask EFF questions about the law an
+ d technology issues that are important to you.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-ask-the-eff-the-year-in-digital-ci
+ vil-liberties-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATT&CKing with Threat Intelligence
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T110000
+UID:5@hope
+ATTENDEE;CN="Cody Thomas";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+ATTENDEE;CN="Christopher Korban";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:in
+ valid:nomail
+DESCRIPTION:Speaker: Cody Thomas\, Christopher Korban\n\nMITRE’s ATT&CK 
+ is a community-driven knowledge base and model for cyber adversary behavio
+ r\, reflecting the various phases of an adversary’s life cycle and the p
+ latforms they are known to target. By scoping the wide breadth of the MITR
+ E ATT&CK matrix to focus initially on the techniques used by threat actors
+  you specifically care about\, you can help the defenders create more usef
+ ul and impactful detections first. Once you start emulating the appropriat
+ e threat actors\, you can practice your defenses in a scenario that’s mo
+ re realistic and applicable without the need for an actual intrusion. The 
+ speakers are providing a process and a case study of APT3 - a China-based 
+ threat group - for how to go from finding threat intelligence\, sifting th
+ rough it for actionable techniques\, creating emulation plans\, discoverin
+ g how to emulate different techniques... to actually operating on a networ
+ k. They are also providing a beginning "cheat sheet" for this actor to giv
+ e a starting point for red and blue teams to accomplish these techniques i
+ n their own environment without the need to build their own tooling.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-att-cking-with-threat-intelligence
+ -
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Autocrypt: End-to-End Encrypted Email for Everyone
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T110000
+UID:6@hope
+ATTENDEE;CN="Daniel Kahn Gillmor (dkg)";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICI
+ PANT:invalid:nomail
+DESCRIPTION:Speaker: Daniel Kahn Gillmor (dkg)\n\nAutocrypt is a user-cent
+ ered\, developer-driven effort to make a set of standards that support con
+ venient\, usable\, easily-adoptable end-to-end encrypted email. With multi
+ ple email programs participating\, they aim to make interoperable tools th
+ at actual humans can easily use. Compared with existing email encryption s
+ chemes\, Autocrypt involves a number of minor heresies\, all aimed at simp
+ licity of user experience and avoiding surprising failure modes. This talk
+  will explain the differences between Autocrypt and other schemes\, highli
+ ght the state-of-the-art (including some demonstrations)\, and talk about 
+ what comes next and how to get involved as a user\, a trainer\, or a devel
+ oper.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-autocrypt-end-to-end-encryped-emai
+ l-for-everyone-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barrett Brown Onstage Interview
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T130000
+UID:7@hope
+ATTENDEE;CN="Spencer Ackerman";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inva
+ lid:nomail
+DESCRIPTION:Speaker: Spencer Ackerman\n\nWriter and anarchist activist Bar
+ rett Brown was prosecuted and sentenced to 63 months in federal prison and
+  nearly a million dollars restitution after posting a link to a URL where 
+ stolen emails of private intelligence agencies were already online. He wil
+ l be interviewed onstage by award-winning journalist Spencer Ackerman\, wh
+ o is currently a senior national security correspondent for The Daily Beas
+ t. This freeform interview will cover a variety of topics\, likely to incl
+ ude Brown’s alleged past connections with Anonymous and LulzSec and thei
+ r reported exfiltration and sharing with WikiLeaks of a huge trove of stol
+ en emails and other sensitive info from private intelligence agencies HBGa
+ ry\, Infragard\, and Endgame Systems. This data exposed collusion between 
+ U.S. government law enforcement and intelligence agencies with private sec
+ tor intelligence agencies that have no public oversight. An audience Q&A w
+ ill follow.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-barrett-brown-onstage-interview-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basement MEMS: Tools\, Processes\, and Techniques for Producing Mi
+ croelectromechanical Systems on a Shoestring
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T120000
+UID:8@hope
+ATTENDEE;CN="Dave Arney";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:no
+ mail
+DESCRIPTION:Speaker: Dave Arney\n\nMEMS devices include microfluidics\, pr
+ essure and motion sensors\, and actuators like valves and comb motors. We 
+ usually think of them as black boxes that arrive packaged up like integrat
+ ed circuits. In this talk\, Dave will share some experiences\, equipment d
+ esigns\, and early results with creating small silicon parts in a home lab
+ . Semiconductor manufacturing equipment is available cheaply on secondhand
+  markets\, and processes that were state-of-the-art are now achievable on 
+ a small budget and without the infrastructure requirements of large scale 
+ production. Together with open lab hardware and accessible microcontroller
+ s\, this puts MEMS fabrication in reach for the maker community.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-basement-mems-tools-processes-and-
+ techniques-for-producing-microelectromechanical-systems-on-a-shoestring-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Being Mean to Software Patents
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T210000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T220000
+UID:9@hope
+ATTENDEE;CN="Daniel Nazer";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+DESCRIPTION:Speaker: Daniel Nazer\n\nEFF has a "Stupid Patent of the Month
+ " blog series\, which highlights some of the silliest patents and the most
+  destructive patent troll campaigns. It has also gotten EFF sued - twice. 
+ People don’t like it when you say that their stupid patents are stupid. 
+ Fortunately\, both times EFF fought back and won. But how is the policy ba
+ ttle going? Did the Supreme Court get rid of software patents in a 2014 de
+ cision? Is the USPTO still churning out terrible patents? Will Congress do
+  anything? This talk will revisit some of the greatest hits from the Stupi
+ d Patent of the Month series and give you the big picture about the fight 
+ against software patents.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-being-mean-to-software-patents-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breath of the RF Field: Hacking Amiibo with Software-Defined Radio
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T230000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T000000
+UID:10@hope
+ATTENDEE;CN="James Chambers";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+DESCRIPTION:Speaker: James Chambers\n\nAmiibo are Nintendo’s "toys to li
+ fe" product line\, supported by the 3DS\, Wii U\, and Switch. Interested i
+ n seeing whether these figures could be used to exploit games or consoles\
+ , James decided to make an Amiibo simulator and fuzzing tool using softwar
+ e-defined radio. This talk will provide an in-depth look at the technology
+  and proprietary security system behind Amiibo\, as well as the process of
+  reverse engineering it. He’ll also explain the development of the simul
+ ator using a Proxmark3\, and how he used it to find a bug in the NFC proto
+ col used by the Switch and Wii U.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-breath-of-the-rf-field-hacking-ami
+ ibo-with-software-defined-radio-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea Manning Onstage Interview
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T150000
+UID:11@hope
+ATTENDEE;CN="Yan Zhu";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomai
+ l
+DESCRIPTION:Speaker: Yan Zhu\n\nChelsea Manning\, a former intelligence an
+ alyst for the U.S. Department of Defense who disclosed a trove of classifi
+ ed documents to WikiLeaks revealing human rights abuses and corruption con
+ nected to the U.S. wars in Iraq and Afghanistan\, will speak onstage with 
+ noted technologist Yan Zhu on a variety of topics - including the ramifica
+ tions of government secrecy\, the need for greater government transparency
+ \, her experiences being charged and court-martialed for violations of the
+  Espionage Act\, and serving seven years in military prison before receivi
+ ng a commutation of her 35-year sentence by the President of the United St
+ ates. An extended audience Q&A will follow.
+LOCATION:Vaughan\,
+URL:https://www.hope.net/schedule.html#-chelsea-manning-onstage-interview-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Closing Ceremonies
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T200000
+UID:12@hope
+ATTENDEE;CN=;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+DESCRIPTION:Too many people make the mistake of leaving before we get to t
+ he end. And in the case of HOPE conferences\, that end is a bit later than
+  most other conferences. We believe that the day after a HOPE conference i
+ s a lost day\, a time of recovery\, perhaps even a holiday. Therefore\, it
+  makes little sense to not enjoy to the fullest this Sunday evening where 
+ we all celebrate another fun weekend together and start planning for the n
+ ext one.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-closing-ceremonies-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Conversation on Internet Censorship
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T120000
+UID:13@hope
+ATTENDEE;CN="Roya Ensafi";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+ATTENDEE;CN="Ksenia Ermoshina";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inva
+ lid:nomail
+ATTENDEE;CN="Sergey Frolov";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+ATTENDEE;CN="Lex Gill";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:noma
+ il
+ATTENDEE;CN="Will Scott";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:no
+ mail
+DESCRIPTION:Speaker: Roya Ensafi\, Ksenia Ermoshina\, Sergey Frolov\, Lex 
+ Gill\, Will Scott\n\nThe Internet around us is increasingly regulated and 
+ censored. Censorship is present across the web - influenced by law\, polit
+ ics\, activism\, and corporations. This panel discussion will highlight so
+ me of the successful strategies being used to understand online censorship
+  and to support our voices in the online forum. The conversation will cove
+ r recent events that impinge our online speech\, and what we can do about 
+ it.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-a-conversation-on-internet-censors
+ hip-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creating a Radio Time Machine: Software-Defined Radios and Time-Sh
+ ifted Recordings
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T200000
+UID:14@hope
+ATTENDEE;CN="Thomas Witherspoon";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:in
+ valid:nomail
+DESCRIPTION:Speaker: Thomas Witherspoon\n\nSince the earliest days of radi
+ o transmitting\, individuals and organizations have made an effort to reco
+ rd and preserve radio signals in the form of broadcasts and other over-the
+ -air communications\, especially those of historical significance. Now low
+ -cost software-defined radios (SDRs) coupled with today’s faster memory-
+ enhanced computers allow us to record not just individual signals from one
+  radio station at a time\, but an entire broadcast band - a wide swath of 
+ frequencies - all at once. Each recording from a particular day and time c
+ an easily contain dozens\, if not hundreds\, of stations broadcasting and 
+ communicating simultaneously. Later\, via a software-defined radio applica
+ tion\, recordings can be tuned and listened to (decoded) as if they were l
+ ive. This talk will discuss how you can build your own "radio time machine
+ " which supports such virtual time shifts by utilizing an inexpensive ($25
+ -$100) SDR\, and also show how you can - for free - virtually "travel" thr
+ ough recent history on radio archivists’ preexisting radio time machines
+ .
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-creating-a-radio-time-machine-soft
+ ware-defined-radios-and-time-shifted-recordings-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crossing the Border in the Age of Trump
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T160000
+UID:15@hope
+ATTENDEE;CN="Bill Budington";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+ATTENDEE;CN="Kurt Opsahl";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+DESCRIPTION:Speaker: Bill Budington\, Kurt Opsahl\n\nWhen we travel\, we b
+ ring our lives with us. From financial records and personal photos to acco
+ unt passwords and even digital wallets\, the information we carry on our d
+ evices can be extremely sensitive\, and gives anyone with access to it an 
+ enormous amount of power over us. At the same time\, TSA and border agents
+  have shown increasing interest in gaining access to this information\, pu
+ tting us in a compromised situation and disrupting our travels. This talk 
+ will cover the legal protections that you have\, and what you can do befor
+ e\, during\, and after you travel to protect your data from prying eyes. T
+ his includes the legal and practical precedents that have been established
+  when crossing both domestic and international borders\, the technological
+  capabilities of border agents\, techniques that are likely to become more
+  prevalent\, and what tools you have in your digital toolbox to ensure you
+ r data is kept safe.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-crossing-the-border-in-the-age-of-
+ trump-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cybersquatting on the Trump Campaign: A Bizarre Tale of Real Fake 
+ News
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T160000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T170000
+UID:16@hope
+ATTENDEE;CN="Alexander J. Urbelis";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:
+ invalid:nomail
+DESCRIPTION:Speaker: Alexander J. Urbelis\n\nThis talk will reveal and dis
+ cuss a disinformation operation that was gearing up to attack the Trump ca
+ mpaign during the summer of the 2016 presidential election. Trump’s surp
+ risingly competent information control operation detected and halted the a
+ ttack. Alexander will discuss how he and his law firm pieced together evid
+ ence of the disinformation attack and the Trump campaign’s countermeasur
+ es by collecting and analyzing DNS-related data. This talk will involve a 
+ fascinating and bizarre set of characters and settings\, including psychic
+ s\, preachers\, lawyers\, gamblers\, conspiracies\, mystical locations\, a
+ nd of course\, domain names\, DNS data\, and quite a few active threats.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-cybersquatting-on-the-trump-campai
+ gn-a-bizarre-tale-of-real-fake-news-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dark Caracal: How to Burn a Spy Agency and Get Away with It
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T190000
+UID:17@hope
+ATTENDEE;CN="Cooper Quintin";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+DESCRIPTION:Speaker: Cooper Quintin\n\nThe nature of state surveillance is
+  changing\, and "cyberwar" is becoming cheaper. Stuxnet\, Fancy Bear\, and
+  WannaCry are some of the more infamous examples of state-sponsored hackin
+ g. But what happens when a nation state on a shoestring budget wants to ru
+ n a global espionage campaign? And more importantly\, what happens when th
+ ey are stupid about it and get caught? This talk will discuss the changing
+  nature of state surveillance\, the details of a new state-sponsored malwa
+ re campaign uncovered by EFF and Lookout\, and what hackers can do to stop
+  governments engaging in targeted digital surveillance.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-dark-caracal-how-to-burn-a-spy-age
+ ncy-and-get-away-with-it-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Demoscene: How Software Piracy Birthed an Underground Art Scen
+ e
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T230000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T000000
+UID:18@hope
+ATTENDEE;CN="Inverse Phase";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+DESCRIPTION:Speaker: Inverse Phase\n\nHave you ever used old\, pirated sof
+ tware and found it came with an "extra" introduction from the person who b
+ roke the copy protection? Have you ever watched a music video stored entir
+ ely in mere kilobytes of space? There’s a whole community of individuals
+  called the Demoscene trying to make art under extreme limitations\, wheth
+ er it be 3D graphics on an 8-bit Atari\, or CD-quality music playback on a
+  Commodore 64. This presentation will explain how that scene came to be\, 
+ what it consists of now\, and of course you’ll see some example demos!
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-the-demoscene-how-software-piracy-
+ birthed-an-underground-art-scene-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The DMV and You: Where Identity Meets The Road
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T180000
+UID:19@hope
+ATTENDEE;CN=Aphrodite;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomai
+ l
+DESCRIPTION:Speaker: Aphrodite\n\nNearly everyone in the United States and
+  Canada interacts with these agencies whose reputation is linked with Patt
+ y and Selma from The Simpsons. The modern DMV isn’t simply a place to ge
+ t a card with your picture on it. They are arbiters of identity in these c
+ ountries without national IDs. In this talk\, Aphrodite will provide a uni
+ que inside view into the operations you don’t normally hear about\, such
+  as facial recognition\, the REAL ID Act’s consequences\, and high tech 
+ details of the plastic or polycarbonate cards in your wallet.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-the-dmv-and-you-where-identity-mee
+ ts-the-road-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMP\, CME\, and the Electronic Apocalypse
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T160000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T170000
+UID:20@hope
+ATTENDEE;CN="David Cripe";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+DESCRIPTION:Speaker: David Cripe\n\nWith continued geopolitical unrest amo
+ ng nuclear powers and the total ubiquity of electronics in every aspect of
+  modern life\, there is a concern over catastrophic events that could have
+  the potential to disrupt and alter life as we know it. The threats of EMP
+  (electromagnetic pulse) and CME (coronal mass discharge) are real and\, s
+ hould they occur\, the results would impact the lives of millions. The phy
+ sics behind these threats are analyzed\, their effects and potential for d
+ amage estimated\, and means to protect against them examined. Additionally
+ \, the use of EMP as a weapon is analyzed from a strategic standpoint\, an
+ d non-nuclear threats to the electrical grid considered.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-emp-cme-and-the-electronic-apocaly
+ pse-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Encrypted Notes of Antonio Marzi
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T210000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T220000
+UID:21@hope
+ATTENDEE;CN="Anna Bernardi";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+ATTENDEE;CN="Filippo Valsorda";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inva
+ lid:nomail
+DESCRIPTION:Speaker: Anna Bernardi\, Filippo Valsorda\n\nAntonio Marzi die
+ d in 2007\, leaving behind dozens of encrypted notes and a partial key. Du
+ ring World War II\, he chose to work with the British Special Operations E
+ xecutive and was parachuted into Italian territory under German occupation
+ . There he transmitted detailed military-related dispatches in encrypted f
+ orm. This was not modern cryptography\, nor Enigma\, but the kind that was
+  doable on the field with pen and paper. Specifically\, they used poem cod
+ es\, as "Between Silk and Cyanide" tells us: a double columnar transpositi
+ on cipher that scrambles the order of the letters. Marzi sent the notes to
+  an Italian professor and there they stayed undeciphered until 2013. Anna 
+ and Filippo obtained copies of the notes and exploited one of the mortal s
+ ins of cryptography\, key reuse\, to reconstruct the key. (Armin Krauss in
+ dependently decrypted the notes in the same year.) A number of them were i
+ ndecipherable due to encryption mistakes made in the field. During the war
+ \, entire departments hacked away at these ciphertexts\, but today compute
+ rs make easy work of them. This talk will explore how they went from recog
+ nizing the code\, to reconstructing the key (partially thanks to little ha
+ ndwritten dots)\, to the contents of the notes.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-the-encrypted-notes-of-antonio-mar
+ zi-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:End of File
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T150000
+UID:22@hope
+ATTENDEE;CN="Jason Scott";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+DESCRIPTION:Speaker: Jason Scott\n\nEvery file has an end\, every hard dri
+ ve goes bad\, and every carrier eventually drops. What matters is what we 
+ do when these expected (or unexpected) ends arrive. Jason Scott of the Int
+ ernet Archive and Archive Team talks about endings\, near-misses\, and con
+ fronting finite resources and energy in a variety of situations that deman
+ d infinite amounts of attention\, effort\, and meaning. Expect humor\, sad
+ ness\, overviews of moving day logistics and a hint of angel wings.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-end-of-file-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENIAC: The Hack That Started It All
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T130000
+UID:23@hope
+ATTENDEE;CN="Brian L. Stuart";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inval
+ id:nomail
+DESCRIPTION:Speaker: Brian L. Stuart\n\nThe ENIAC was dedicated on Februar
+ y 15\, 1946 and became the testbed upon which people learned to build and 
+ program powerful digital computers. It became a national resource\, contri
+ buting to a wide variety of R&D until it was decommissioned ten years late
+ r. ENIAC was designed and built at the University of Pennsylvania in Phila
+ delphia\, using 18\,000 vacuum tubes consuming 150\,000 watts of power. Th
+ is presentation will focus on how the ENIAC was conceived\, designed\, bui
+ lt\, and worked\; how it was used in different modes of operation\; and th
+ e details of its internal operations. This will be illustrated in real-tim
+ e with a fully functional\, interactive\, and photorealistic ENIAC emulato
+ r created by the speaker. The significance and relevance of the ENIAC to c
+ omputers we use today will also be discussed. A brief audience Q&A will fo
+ llow.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-eniac-the-hack-that-started-it-all
+ -
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Enron Email Corpus: Where the Bodies Are Buried?
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T160000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T170000
+UID:24@hope
+ATTENDEE;CN="David Noever";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+DESCRIPTION:Speaker: David Noever\n\nAs the biggest public domain email da
+ tabase\, the Enron email corpus details financial deception in the world
+ ’s largest energy trading company and\, at the time in 2002\, triggered 
+ the most costly U.S. bankruptcy and its most massive audit failure. What c
+ an Enron tell us today? This talk will invite fresh perspective on how ema
+ il has (and has not) changed since 2002. Can modern forensic methods find 
+ where any new email bodies are buried\, even when scanning through the evi
+ dence of a previously closed case? The presentation highlights some funny 
+ and poignant examples of how humans in business suits write to each other 
+ when planning mischief. For the previous six years prior to its failure\, 
+ Fortune Magazine had named Enron as "America’s most innovative company."
+  Enron’s former chief financial officer now lectures profitably to busin
+ ess groups and hedge funds using a new self-appointed title of "chief loop
+ hole officer." More than 3\,000 studies have dissected Enron’s email\, b
+ ut have failed to uncover some of its more fascinating forensic artifacts.
+  Nearly two decades later\, we revisit this trove to discover what modern 
+ tools can do with it. For instance\, when the Federal Energy Regulatory Co
+ mmission (FERC) originally released two terabytes (1.6 million emails and 
+ attachments)\, they claimed to have stripped all personal information. Yet
+  a modern machine learning pipeline in 2018 can identify almost 50\,000 pr
+ eviously unreported instances\, including credit card numbers\, bank accou
+ nts\, and additional evidence that potentially harms the 99 percent of Enr
+ on employees who were never charged. At least one example of detectable ma
+ lware is still included in the official Enron corpus (called "Joke-StressR
+ elief") along with 231 other executables which continue to accompany each 
+ download. This talk will further investigate whether by using email traffi
+ c alone\, machine learning can predict all of the (eventually charged) per
+ sons of interest. It will discuss how Hadoop distributed processing on mul
+ tiple\, clustered virtual machines was deployed. More than 50 algorithms w
+ ere analyzed for both accuracy (90 plus percent) and execution times. In c
+ ompliance with new (June 2018) European privacy rules for explainable arti
+ ficial intelligence\, each algorithmic decision was reduced to human-under
+ standable rules and rank order to define which email factors might prove m
+ ost predictive to future fraud and conspiracy investigations.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-the-enron-email-corpus-where-the-b
+ odies-are-buried-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evidential Study of IoT Botnets - The Bad and The Ugly!
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T180000
+UID:25@hope
+ATTENDEE;CN="Aditya K. Sood";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+DESCRIPTION:Speaker: Aditya K. Sood\n\nIoT botnets are deployed heavily to
+  perform nefarious activities by circumventing the integrity of the IoT de
+ vice to launch sophisticated targeted or broad-based attacks. IoT botnets 
+ have enhanced the cybercrime operations to a great extent\, thereby making
+  it easier for the attackers to carry out unauthorized activities on the I
+ nternet. In this talk\, Aditya will perform an empirical analysis to condu
+ ct a characteristic study of IoT botnets to understand the inherent design
+ \, architecture\, and associated operations. Code samples will be dissecte
+ d to highlight the inherent nefarious operations performed by the IoT bots
+ . The study covers analysis of multiple IoT botnet families.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-evidential-study-of-iot-botnets-th
+ e-bad-and-the-ugly-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Arguments on Why State Hacking is Bad
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T180000
+UID:26@hope
+ATTENDEE;CN="Luca Follis";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+DESCRIPTION:Speaker: Luca Follis\n\nWhile state hacking is a powerful weap
+ on for authoritarian regimes\, it has an erosive effect on democratic stat
+ es. Hacking is advantageous for authoritarian governments that need to ret
+ ain domestic control\, monitor and disturb dissent\, attack aggressors\, a
+ nd project force internationally. State hacking is bad because it is delet
+ erious to the legitimacy of the democratic state\, the legal system\, "eth
+ ical" capitalism\, and the democratic process itself. In this talk\, the a
+ rgument is presented that state hacking is bad for democratic elections\, 
+ the integrity of the security services\, transparency in government\, priv
+ acy for the individual\, the separation of public and private militaries\,
+  the judicial system\, and the development of ethical cybersecurity practi
+ ces. Such hacking is a short circuit in the rule of law and undermines the
+  machinery of democracy. State hacking is bad because it provides unparall
+ eled advantage to rulemakers while delegitimizing the citizen led governme
+ nt.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-four-arguments-on-why-state-hackin
+ g-is-bad-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Expression\, Privacy\, and the Role of Tech Companies: Where 
+ Do We Go From Here?
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T150000
+UID:27@hope
+ATTENDEE;CN="Laura Reed";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:no
+ mail
+DESCRIPTION:Speaker: Laura Reed\n\nFrom the proliferation of dangerous spe
+ ech online to massive data breaches to the Facebook Cambridge Analytica sc
+ andal\, it’s clear that tech companies’ policies and practices can hav
+ e a significant impact on people’s ability to exercise their rights to f
+ reedom of expression and privacy. Yet companies aren’t doing enough to p
+ rotect these rights. How can they do better and how can we incentivize the
+ m to move in the right direction? Ranking Digital Rights\, a nonprofit res
+ earch initiative\, works with an international network of partners to set 
+ global standards for how companies in the information and communication te
+ chnology sector should respect freedom of expression and privacy. Its annu
+ al corporate accountability index ranks 22 companies on a set of indicator
+ s evaluating how transparent companies are about their commitments and pol
+ icies affecting human rights. This talk will give an overview of how the c
+ orporate accountability index lays out a road map for companies to improve
+  their human rights standards. Laura will provide highlights from the rece
+ ntly launched 2018 index\, showing where companies are beginning to be mor
+ e transparent about their practices - things like content moderation polic
+ ies and practices for handling user information - and where there are stil
+ l significant gaps in disclosure that leave users in the dark.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-free-expression-privacy-and-the-ro
+ le-of-tech-companies-where-do-we-go-from-here-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Geek Panel - Reusing and Recycling Old Computers For Fun and 
+ Nonprofit
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T120000
+UID:28@hope
+ATTENDEE;CN="Dan Bartholomew";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inval
+ id:nomail
+ATTENDEE;CN="Ryan Fukunaga";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+ATTENDEE;CN="Zachary (Zac) Slade";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:i
+ nvalid:nomail
+ATTENDEE;CN="Charlie Coile";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+ATTENDEE;CN="Joel Izlar";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:no
+ mail
+DESCRIPTION:Speaker: Dan Bartholomew\, Ryan Fukunaga\, Zachary (Zac) Slade
+ \, Charlie Coile\, Joel Izlar\n\nAcross North America\, passionate people 
+ help out at their community Free Geek (or a similar organization) to refur
+ bish discarded computers and make them useful tools again for people who n
+ eed them. In the process of this\, people build community\, gain skills\, 
+ and help the planet. Challenges to successful operations include ethical e
+ -waste recycling practices\, troubleshooting and repair\, parts management
+ \, drive imaging\, ensuring free and open-source software (FOSS) use\, man
+ aging volunteers\, organizational structure and governance\, financial sus
+ tainability\, and ensuring a balance between community needs and interests
+ . Participants from Free Geek and similar organizations will discuss these
+  challenges\, with success stories and wrong turns\, and how they manage t
+ o keep the doors open and lights on to serve the public good.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-free-geek-panel-reusing-and-recycl
+ ing-old-computers-for-fun-and-nonprofit-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Futel: The Payphone\, Devolved
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T200000
+UID:29@hope
+ATTENDEE;CN="Karl Anderson";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+DESCRIPTION:Speaker: Karl Anderson\n\nPart public service and part public 
+ art\, Futel is keeping payphones alive by installing them in public locati
+ ons and providing free telephone service\, telephone-mediated art\, and li
+ ve human interaction. They feel that the constraints of the phone interfac
+ e spur creativity\, pay homage to a generation of creative hackers\, and a
+ llow them to worm their way into the minds of large groups of people. Now 
+ that we are finally living in the cyberpunk dystopia promised in the 1980s
+ \, they are poised to seize this moment. You will learn what aspects of th
+ e project make it effective\, and how they can be applied to other creativ
+ e technological projects.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-futel-the-payphone-devolved-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Go FERPA Yourself: Checking Your Student Record
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T130000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T140000
+UID:30@hope
+ATTENDEE;CN="Adam Goldstein";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+DESCRIPTION:Speaker: Adam Goldstein\n\nYour student record is available to
+  law enforcement\, the military\, and professional licensing boards - but 
+ do you know what it says about you? There’s a law for that: the Family E
+ ducational Rights and Privacy Act (FERPA\, 20 U.S.C. Sec. 1232g). This ses
+ sion covers the mechanics of how to request your record\, how to handle so
+ me of the ways colleges have tried to wiggle out of turning those records 
+ over\, and the process for disputing incorrect information (including how 
+ to tell if those records are already in the possession of law enforcement)
+ .
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-go-ferpa-yourself-checking-your-st
+ udent-record-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hackers and Shamans - Travelers of the Black Box
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T160000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T170000
+UID:31@hope
+ATTENDEE;CN="danae valentina";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inval
+ id:nomail
+DESCRIPTION:Speaker: danae valentina\n\nA session to critically analyze th
+ e figures of the hacker and the shaman\, their ontological similarities an
+ d their journeys as travelers of their respective "black boxes" - the comp
+ utational network in the case of the hacker and the human conscience in th
+ e case of the shaman. This talk will delineate modes of direct action that
+  would allow us to think about hacking as a way to overcome ruling knowled
+ ge paradigms.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-hackers-and-shamans-travelers-of-t
+ he-black-box-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hacking Extradition: Fighting the Long Arm of U.S. Law
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T130000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T140000
+UID:32@hope
+ATTENDEE;CN="Nathan Fuller";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+ATTENDEE;CN="Grace North";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+ATTENDEE;CN="Lauri Love";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:no
+ mail
+ATTENDEE;CN="Barrett Brown";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+DESCRIPTION:Speaker: Nathan Fuller\, Grace North\, Lauri Love\, Barrett Br
+ own\n\nThe United States punishes computer crimes more severely than any o
+ f its western allies\, often threatening to imprison digital dissidents fo
+ r decades for crimes other countries would sanction with fines or probatio
+ n. Preventing the U.S. from extraditing alleged hackers across the pond co
+ uld mean saving a defendant’s life. Earlier this year\, U.K. security re
+ searcher Lauri Love successfully beat back the U.S.’s attempt to extradi
+ te him from Britain\, in a redux of Gary McKinnon’s ten year extradition
+  battle which resulted in the "forum bar" that helped protect Love. But th
+ e judges in Lauri’s case went further than protecting only him: The High
+  Court’s ruling condemned the conditions of U.S. prisons\, citing danger
+ ously inadequate mental healthcare as a reason to keep Lauri in the U.K. U
+ sing his ordeal as a case study\, we can see how these extradition cases c
+ an have meaningful ramifications beyond a single defendant. Lauri Love\, G
+ ary McKinnon\, and Richard O’Dwyer have recently shown how to stand up t
+ o the United States’ perceived global reach. How can we learn from these
+  cases to protect others facing extradition? Can we turn a U.K. court ruli
+ ng into meaningful U.S. prison reform?
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-hacking-extradition-fighting-the-l
+ ong-arm-of-u-s-law-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hacking Healthcare: Bringing a Hacker Mindset to Solving Healthcar
+ e’s Biggest Problems
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T130000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T140000
+UID:33@hope
+ATTENDEE;CN="Dave Arney";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:no
+ mail
+DESCRIPTION:Speaker: Dave Arney\n\nThe Institute of Medicine estimates tha
+ t up to 400\,000 Americans are killed by preventable medical errors per ye
+ ar. Better patient monitoring\, smart alarm systems\, advanced treatment a
+ lgorithms\, and data analytics are key technologies that can help to reduc
+ e this number. Attempts to build better systems run into common problems i
+ ncluding the difficulty of integrating into existing workflows\, manufactu
+ rer-specific silos\, and a lack of data to help drive improvements. Solvin
+ g these problems requires people who can connect things together in new an
+ d unlikely ways\, holistically examine processes that involve both technol
+ ogy and human workflows\, and find creative ways to get things done. This 
+ talk will discuss why healthcare can be a difficult place to be an enginee
+ r\, some possible reasons that clinicians may be unwilling to implement yo
+ ur perfectly reasonable solutions\, and how a hacker mindset is essential 
+ for improving the safety and effectiveness of healthcare.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-hacking-healthcare-bringing-a-hack
+ er-mindset-to-solving-healthcare-s-biggest-problems-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Help! My Toaster’s Attacking Me!" and Other 911 Calls of the Fu
+ ture: An Update on the Legal and Policy Landscape for the Internet of Thin
+ gs
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T110000
+UID:34@hope
+ATTENDEE;CN="Harley Geiger";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+ATTENDEE;CN="Amie Stepanovich";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inva
+ lid:nomail
+DESCRIPTION:Speaker: Harley Geiger\, Amie Stepanovich\n\nThe Internet of T
+ hings is expected to grow to more than 200 billion devices by 2020. Unfort
+ unately\, the market has not incentivized strong security for most IoT pro
+ ducts\, and the legal and regulatory environments - not surprisingly - hav
+ e not been able to keep pace with the technology. This talk will detail th
+ e potential growth of the Internet of Things\, focusing on the exploration
+  of key legal and policy developments related to IoT security. Included wi
+ ll be updates on relevant court cases\, legislative proposals\, and regula
+ tory activities.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-help-my-toaster-s-attacking-me-and
+ -other-911-calls-of-the-future-an-update-on-the-legal-and-policy-landscape
+ -for-the-internet-of-things-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hip-Hop Can Hack Everything! Solutions from a Culture of Innovatio
+ n
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T190000
+UID:35@hope
+ATTENDEE;CN="Manny Faces";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+DESCRIPTION:Speaker: Manny Faces\n\nHip-hop is a world-class disruptor. It
+  has transformed music\, popular culture\, fashion\, business and advertis
+ ing\, creating (and upending) massive industries in its wake. This talk ex
+ plores the enormous innovative potential that hip-hop music and culture co
+ ntinue to exert across multiple fields and disciplines\, including science
+  and technology\, education\, health and wellness\, politics and activism\
+ , journalism\, the fine arts\, and... well... everything.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-hip-hop-can-hack-everything-soluti
+ ons-from-a-culture-of-innovation-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:History of the Maker Movement
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T120000
+UID:36@hope
+ATTENDEE;CN="Limor 'Ladyada' Fried";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT
+ :invalid:nomail
+ATTENDEE;CN="Sherry Huss";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+ATTENDEE;CN="Mitch Altman";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+ATTENDEE;CN="Phillip Torrone";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inval
+ id:nomail
+ATTENDEE;CN="and more";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:noma
+ il
+DESCRIPTION:Speaker: Limor "Ladyada" Fried\, Sherry Huss\, Mitch Altman\, 
+ Phillip Torrone\, and more\n\nThere are a few people who claim to be the "
+ father of the maker movement." This panel will explore the history of what
+  is called the maker movement\, and help un-erase some of the pioneers who
+  have helped bring communities together\, shared open-source\, and built p
+ laces for all hackers\, makers\, artists\, and engineers.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-history-of-the-maker-movement-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Homebrew 68K Retrocomputing on Low Cost FPGA Boards
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T160000
+UID:37@hope
+ATTENDEE;CN="Keith Monahan";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+DESCRIPTION:Speaker: Keith Monahan\n\nGrowing up on the Commodore Amiga in
+ troduced Keith to the venerable Motorola 68000 processor. This talk will s
+ hare the technical details of how he integrated an open-source 68K soft-co
+ re processor on a $30 FPGA board: what challenges he faced\, skills he nee
+ ded to learn\, and how he managed to create his own retrocomputer - comple
+ te with 7" touchscreen and old-school audio - from scratch. This talk will
+  touch on topics like computer architecture and design\, Verilog HDL\, 68K
+  assembly language\, electronics\, and more!
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-homebrew-68k-retrocomputing-on-low
+ -cost-fpga-boards-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How a Hackerspace Built a Legal FM Radio Station
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T190000
+UID:38@hope
+ATTENDEE;CN=Saint;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+ATTENDEE;CN=Hook;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+ATTENDEE;CN="Pete Tridish";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+DESCRIPTION:Speaker: Saint\, Hook\, Pete Tridish\n\nMontana Ethical Hacker
+ s (MEH) walks you through the trials and tribulations of developing KMEH 1
+ 07.9 - End of the Dial Hacker Radio. Their presentation ranges from overco
+ ming low budget logistical challenges and the FCC application process to c
+ onvincing the U.S. military to give up a call sign. Content generation and
+  copyright issues will be covered. The talk will also include a quick back
+ ground on the pirate radio movement of the 1990s\, and how that spawned th
+ e legal LPFM service\, which created thousands of legal LPFM stations. You
+  will learn about some of the practical challenges of starting radio stati
+ ons\, radio’s role in today’s media environment\, and the future of co
+ mmunity radio.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-how-a-hackerspace-built-a-legal-fm
+ -radio-station-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Pwn an Enterprise in 2018 (and 2019\, and 2020...)
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T200000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T210000
+UID:39@hope
+ATTENDEE;CN="Johnny Xmas";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+DESCRIPTION:Speaker: Johnny Xmas\n\nThis talk will "reveal the magician’
+ s" secrets on all of the "low-hanging fruit" hackers used to compromise en
+ terprises in 2018. This will be a candid\, detailed\, step-by-step how-to 
+ attack chain walkthrough\, explaining how and why the attacks work\, and w
+ hat steps can be taken to proactively defend against them. Participants wi
+ ll walk away with highly actionable tasks to immediately take to work on M
+ onday to not only bump their security posture up a distinctive notch with 
+ little to no hit on their budgets\, but also inherently render future pene
+ tration tests more cost-effective by eliminating potential "cheap shots" t
+ hat pentesters love to take. They will also\, of course\, walk away with t
+ he ability to become the domain admin of an average corporation from their
+  couch in record time.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-how-to-pwn-an-enterprise-in-2018-a
+ nd-2019-and-2020-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How Your Personal Information is Obtained and Exploited to Manipul
+ ate Your Emotions\, Your Actions\, and Your Vote
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T200000
+UID:40@hope
+ATTENDEE;CN="Steven Rambam";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+DESCRIPTION:Speaker: Steven Rambam\n\nYour habits\, hobbies\, friends\, fa
+ mily\, location (today\, and for the past 17 years)\, activities\, deepest
+  thoughts\, and desires are known\, indexed\, and analyzed. Dataveillance 
+ is now all-encompassing and the "small window into your soul" is now a bar
+ n door. Attack vectors now include photos\, video\, audio\, self-installed
+  wiretaps (i.e.\, Alexa) and an always-on ever-present tracking device (yo
+ ur cell phone). Drink a certain type of cola? You’re 20 percent more lik
+ ely to believe in space aliens. Enjoy chunky peanut butter and own a cat? 
+ You’re significantly more likely to buy a Volkswagen. Live in a certain 
+ zip code? Subscribe to a certain magazine? Use a certain email domain? Dri
+ nk a certain kind of alcoholic beverage? Order certain combinations of piz
+ za toppings? Drive a certain color car? Visit certain noteworthy (for prof
+ ilers) locations? Data about these otherwise innocuous choices are now rou
+ tinely merged and extrapolated into deep understanding of your personal ch
+ aracteristics and political beliefs\, and are used to target you with info
+ rmation tailored to influence your emotions\, actions\, purchases and\, es
+ pecially\, your vote. This will be the HOPE talk Steven always wanted to g
+ ive. It will amaze\, disturb\, and frighten - and it will be Steven’s la
+ st talk at any HOPE conference (he’ll explain that\, too). Deprogramming
+  available.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-how-your-personal-information-is-o
+ btained-and-exploited-to-manipulate-your-emotions-your-actions-and-your-vo
+ te-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hype is Over\, So What is Desktop 3D Printing Really About?
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T180000
+UID:41@hope
+ATTENDEE;CN="Matt Griffin";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+DESCRIPTION:Speaker: Matt Griffin\n\nWhile the world was falling in love w
+ ith desktop 3D printers as a potential disruption to how consumer products
+  might be created and manufactured (in the home)\, a parallel transformati
+ on was taking place that shows no sign of stopping. It is time to cut thro
+ ugh the bullshit and examine the revolution that actually took place! Expe
+ rience case studies and research that speaks practically to how manufactur
+ ing\, medicine\, design\, and enterprise use of the technology is accelera
+ ting the evolution of product and hardware design\, transforming how we ma
+ nufacture and package products\, and how HOPE audiences can leverage pipel
+ ines and strategies they have mastered for other purposes (web\, IT\, secu
+ rity) to move forward their design and hardware. Welcome to the "data cent
+ er moment" for fabrication technology!
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-the-hype-is-over-so-what-is-deskto
+ p-3d-printing-really-about-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Dream of Game Genies and ZIP Files - Hacking the NES
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T200000
+UID:42@hope
+ATTENDEE;CN="Vi Grey";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomai
+ l
+DESCRIPTION:Speaker: Vi Grey\n\nThe Nintendo Entertainment System existed 
+ in a time when video game consoles didn’t have an operating system. It w
+ as up to the game cartridges to tell the NES what to think and how to beha
+ ve. Cheating devices like the Game Genie worked by taking full advantage o
+ f that fact. These cheating devices\, along with the fact of cartridges be
+ ing mightier than the console\, opens up unusual and creative gameplay opt
+ ions that can be utilized by a game developer. The design of these cartrid
+ ges also allows for information to be discreetly concealed in unexpected w
+ ays. Building on the research from his article in PoC||GTFO Issue 0x18 abo
+ ut concealing ZIP files in NES ROMS\, Vi will share his process for creati
+ ng a custom game cartridge that utilizes these unusual gameplay options wh
+ ile also making the cartridge data work as a fully functioning ZIP file an
+ d web page.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-i-dream-of-game-genies-and-zip-fil
+ es-hacking-the-nes-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inspiring the Next Next Generation of Hackers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T110000
+UID:43@hope
+ATTENDEE;CN=BiaSciLab;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomai
+ l
+ATTENDEE;CN=Kousei;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+DESCRIPTION:Speaker: BiaSciLab\, Kousei\n\nWant to get started in the worl
+ d of hacking but don’t know how? How do you inspire your kids to begin l
+ ooking at things like a hacker? When should you start? What should you do?
+  Eleven-year-old old hacker BiaSciLab and 14-year-old Kousei will answer t
+ hese questions and more as they set adults at ease with bringing their kid
+ s into the hacker world. They will explain how they started their journeys
+ \, where they are planning to go\, and how to get there. This talk will al
+ so have lots of great tips for adults starting out too.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-inspiring-the-next-next-generation
+ -of-hackers-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to User Freedom
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T190000
+UID:44@hope
+ATTENDEE;CN="Karen M. Sandler";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inva
+ lid:nomail
+ATTENDEE;CN="Molly de Blanc";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+DESCRIPTION:Speaker: Karen M. Sandler\, Molly de Blanc\n\nIf you are codin
+ g\, writing\, or making art or any other creative works\, at some point yo
+ u need to pick a license for how you want to share what you’ve done. A l
+ icense represents a series of ethical\, legal\, and values decisions. Inst
+ ead of proprietary "software" and "culture\," you have "free software" and
+  "free culture." The licenses used to accomplish this are the legal embodi
+ ment of a set of ideals represented in the four freedoms of free software.
+  This talk will provide a historical and philosophical overview of just wh
+ at it means for something to be free\, why it matters\, and what your resp
+ onsibilities are in a world where our experiences\, our selves\, and our l
+ ives have become intellectual property that may not always belong to us.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-introduction-to-user-freedom-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Is the Internet Sick? Findings from Mozilla’s Internet Health Re
+ port
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T160000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T170000
+UID:45@hope
+ATTENDEE;CN="Jairus Khan";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+DESCRIPTION:Speaker: Jairus Khan\n\nOur personal credit details have been 
+ stolen en masse. Social media has been weaponized as a tool of cruel haras
+ sment. The democratic process has been undermined by the manipulation of o
+ nline news and ads. We are beginning to see the health of the Internet as 
+ not just a technical issue\, but a human one. Mozilla’s Internet Health 
+ Report is an open-source project that documents and explains how people wo
+ rldwide are interacting with and affected by our connected world. The repo
+ rt aims to provide a "big picture" of the global state of health of the In
+ ternet through the prism of five core issues: privacy and security\, openn
+ ess\, digital inclusion\, web literacy\, and decentralization. This talk w
+ ill share findings from the 2018 Internet Health Report\, and examine how 
+ we might use the concept of "Internet health" as a catalyst for change in 
+ our communities.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-is-the-internet-sick-findings-from
+ -mozilla-s-internet-health-report-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Takes a Village to Hack a Voting System
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T180000
+UID:46@hope
+ATTENDEE;CN="Matt Blaze";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:no
+ mail
+ATTENDEE;CN="Harri Hursti";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+ATTENDEE;CN="Margaret MacAlpine";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:in
+ valid:nomail
+DESCRIPTION:Speaker: Matt Blaze\, Harri Hursti\, Margaret MacAlpine\n\nMod
+ ern electronic voting systems are notoriously vulnerable to attack\, and t
+ he 2016 election was perhaps the first time we saw evidence of state actor
+ s attempting to compromise local election system infrastructure. But how i
+ nsecure are the actual voting systems we use? And how can the average hack
+ er get access to these systems to find out firsthand? Last year\, the spea
+ kers organized the first ever Voting System Hacking Village at Defcon\, in
+  which the community was invited to example\, take apart\, and hack severa
+ l real voting systems used in U.S. elections. Many exploitable vulnerabili
+ ties were discovered or reproduced over the course of the weekend. This ta
+ lk will describe how the voting village was organized\, the technical and 
+ legal challenges in doing so\, and how you too can (legally!) obtain and h
+ ack real election equipment. The background and requirements for secure el
+ ections will also be discussed\, as well as how technology can both hurt a
+ nd help these requirements.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-it-takes-a-village-to-hack-a-votin
+ g-system-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lessons from an Undergraduate Course in Cybersecurity and Cyber Wa
+ rfare - Is Our Children Securing?
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T120000
+UID:47@hope
+ATTENDEE;CN="Ming Chow";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nom
+ ail
+ATTENDEE;CN="Matthew Weinberg";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inva
+ lid:nomail
+DESCRIPTION:Speaker: Ming Chow\, Matthew Weinberg\n\nThis is the story of 
+ a course that was taught in the spring of 2017 at Tufts University. It was
+  taught jointly between the Department of Computer Science and the Departm
+ ent of Political Science and was created to develop bridges between studen
+ ts and faculty members in the fields of computer science\, political scien
+ ce\, and international relations. The speakers will explain how the founda
+ tion of progress in cybersecurity can be achieved by addressing the knowle
+ dge and cultural gaps of technologists and policymakers at an early age. T
+ his talk provides a prescription for running similar courses\, including a
+  list of topics covered\, assignments\, and outcomes. It will also delve i
+ nto the challenges encountered when the course was run\, what was learned\
+ , students’ comments\, the growing need for such courses\, and future op
+ portunities.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-lessons-from-an-undergraduate-cour
+ se-in-cybersecurity-and-cyber-warfare-is-our-children-securing-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liberate Your E-book Reader with fread.ink!
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T230000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T000000
+UID:48@hope
+ATTENDEE;CN="Marc Juul";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nom
+ ail
+DESCRIPTION:Speaker: Marc Juul\n\nfread.ink is an open-source operating sy
+ stem for electronic paper e-book readers based on the popular Debian GNU/L
+ inux. Why are these devices interesting and underutilized? How have proble
+ matic laws like the DMCA impeded progress and what did it take to get a mo
+ dern GNU/Linux system working on one of Amazon’s devices? This talk will
+  attempt to answer these questions and show you how to start hacking your 
+ own paper display devices using fread.ink.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-liberate-your-e-book-reader-with-f
+ read-ink-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Life Before 1337: The Hacker’s Illustrated Guide to Script Kiddi
+ e History
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T220000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T230000
+UID:49@hope
+ATTENDEE;CN="John Dunlap";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+ATTENDEE;CN="Alex Ivanov";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+DESCRIPTION:Speaker: John Dunlap\, Alex Ivanov\n\nFor some\, "script kiddi
+ e" is a term leveled at the younger\, more boisterous\, and less experienc
+ ed members of the hacking community. For others\, it’s a badge of honor 
+ confirming their dedication to the more inane\, sardonic\, and social aspe
+ cts of the hacking scene. In this talk\, these two New York City security 
+ veterans will give a loving tour of the history of the script kiddie scene
+ . The speakers will describe the evolution of script kiddie staples such "
+ 1337" speak\, ASCII art\, widely shared premade exploits\, hacking communi
+ ties such as IRC/Usenet/forums\, and a wide range of the cultural tropes b
+ orn in the script kiddie scene. The speakers’ aim is to educate and ente
+ rtain listeners by demonstrating the genesis of the hacker stereotype\, an
+ d to fill in the blanks between media hyperbole and hacker culture reality
+ . Negative preconceptions about the hacker scene will be dispelled\, and m
+ istakes from hacker history will be explored.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-life-before-1337-the-hacker-s-illu
+ strated-guide-to-script-kiddie-history-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Locksport Variety Hour with TOOOL and Friends... Now with 100 
+ Percent More Hour!
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T200000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T220000
+UID:50@hope
+ATTENDEE;CN="Lady Merlin";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+ATTENDEE;CN=Max;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+ATTENDEE;CN=Click;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+ATTENDEE;CN=Ann;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+ATTENDEE;CN=Aidan;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+ATTENDEE;CN="Nite 0wl";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:noma
+ il
+ATTENDEE;CN=NoHackMe;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+ATTENDEE;CN=TheSleep;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+ATTENDEE;CN=Chaz;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+ATTENDEE;CN=Spam;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+ATTENDEE;CN="Smoke Legend";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+ATTENDEE;CN="Deviant Ollam";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+DESCRIPTION:Speaker: Lady Merlin\, Max\, Click\, Ann\, Aidan\, Nite 0wl\, 
+ NoHackMe\, TheSleep\, Chaz\, Spam\, Smoke Legend\, Deviant Ollam\n\nLockpi
+ cking has been an official part of the presentations at Hackers On Planet 
+ Earth for almost 20 years now. (The Open Organisation Of Lockpickers (TOOO
+ L) has existed for nearly two decades in the Netherlands and emerged here 
+ in the USA at The Fifth HOPE in 2004.) And yet there are still so many sto
+ ries to tell and new things to share! This year’s locksport panel will a
+ gain include voices and faces from a wide range of picking groups around t
+ he country and around the world\, but will incorporate more lessons and in
+ struction than last time’s free-for-all. Everybody who asks a cool quest
+ ion will win a small prize. If you ask a question that none of the panelis
+ ts can answer\, you win an even bigger prize. If you bring an awesome demo
+  device to show the panel and the crowd\, you might win the biggest prize 
+ of all... audience members can offer up a lock or key of their own for ins
+ pection by the panel\, who must endeavor to identify it and discuss how th
+ e mechanism works and how it might even be opened.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-the-locksport-variety-hour-with-to
+ ool-and-friends-now-with-100-percent-more-hour-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad (Data) Science - Teaching AI to Pop Boxes
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T190000
+UID:51@hope
+ATTENDEE;CN="Kevin Hodges";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+DESCRIPTION:Speaker: Kevin Hodges\n\nIn William Gibson’s prophetic 1984 
+ book Neuromancer\, he described AI that could autonomously wage cyber warf
+ are. Today\, we are regularly warned about the security and privacy implic
+ ations of software that can learn and make decisions from massive datasets
+ \, but rarely do we discuss the possibility of this same software being us
+ ed to make cyber attacks\, or the possibility that it could escape our con
+ trol. Through a series of questionable ethical decisions\, the first itera
+ tion of just that has been developed. WinterMute is an open-source deep le
+ arning project that can assess and exploit a network\, reproduce itself\, 
+ pivot on a compromised machine\, and learn from each step.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-mad-data-science-teaching-ai-to-po
+ p-boxes-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Making Sense of the Ether
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T220000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T230000
+UID:52@hope
+ATTENDEE;CN="Marc DaCosta";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+DESCRIPTION:Speaker: Marc DaCosta\n\nThe airwaves can be a cacophonous pla
+ ce. Signals from GPS satellites exist alongside Bluetooth headsets and the
+  dispatch channels of police stations. The emergence of low-cost software-
+ defined radios (SDRs) have made this world more accessible than ever. In t
+ his talk\, Marc will discuss how public data can be joined with the electr
+ omagnetic spectrum to better understand the world around us. In the first 
+ portion of the talk\, he will discuss how governments regulate the usage a
+ nd ownership of the electromagnetic spectrum. The data residue of this pro
+ cess can be used for everything from geolocating electronic border surveil
+ lance infrastructure to discovering the location and transmission frequenc
+ y of every McDonald’s drive-thru radio. He will also discuss how various
+  protocols for data transmission can be decoded and joined with contextual
+  public data. For instance\, every cargo ship emits an "automated identifi
+ cation system" signal that can be joined with shipping records to understa
+ nd what the ship is carrying. Attendees will leave with a richer sense of 
+ how the radio waves are being used and the tools necessary to critically e
+ xplore them further.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-making-sense-of-the-ether-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mixing DTMF Tones in Space\, Illuminating the Aurora with Giant Ca
+ t Pics\, and Other True Stories About HAARP
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T160000
+UID:53@hope
+ATTENDEE;CN="Chris Fallen";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+DESCRIPTION:Speaker: Chris Fallen\n\nInternet theories abound that the Hig
+ h-frequency Active Auroral Research Program (HAARP) ionospheric research f
+ acility in Alaska is used for sensational and nefarious purposes such as c
+ onducting mass mind control\, triggering earthquakes\, causing hurricanes\
+ , spraying chemtrails\, and even making local caribou walk backward in cir
+ cles. Peer-reviewed journal papers postulate that scientists use the HAARP
+  transmitter to conduct ionosphere radio modification experiments includin
+ g enhanced airglow (i.e.\, "fake aurora")\, artificial magnetic field-alig
+ ned irregularities\, stimulated electromagnetic emissions\, plasma wave in
+ stabilities resulting from electromagnetic pump wave decay\, cross modulat
+ ion effects\, and ELF/VLF radio wave generation. This talk will explore re
+ cent experiments\, including the first modern recreation of the Luxembourg
+  effect which featured DTMF tones and musical compositions written to take
+  advantage of cross modulation\, the first crowd-funded HAARP experiment\,
+  and the first SSTV image broadcast simultaneously with transmissions that
+  also created fake aurora. Additionally\, the HAARP facility and the softw
+ are that runs the main HF transmitter will be discussed\, as will small el
+ ements of truth to some of the conspiracy theories. Finally\, this talk wi
+ ll suggest how you can participate in future experiments.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-mixing-dtmf-tones-in-space-illumin
+ ating-the-aurora-with-giant-cat-pics-and-other-true-stories-about-haarp-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie: Glossary of Broken Dreams
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T160000
+UID:54@hope
+ATTENDEE;CN="Nathalie Maréchal";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:in
+ valid:nomail
+DESCRIPTION:Speaker: Nathalie Maréchal\n\nPuppets! Pixels! Anime! Live ac
+ tion! Stock footage! Johannes gives an ideotaining cinematic revue about i
+ mportant political concepts. Everyone is talking about freedom! Privacy! I
+ dentity! Resistance! The Market! The Left! But\, yikes\, Johannes can’t 
+ tolerate ignorant and topically abusive comments on the "Internet" anymore
+ ! Supported by writer Ishan Raval\, Johannes explains\, reevaluates\, and 
+ sometimes sacrifices political golden calves of discourse. A must-see for 
+ politically interested hackers. Not to be used with false consciousness or
+  silicone-based lubricant. A film paved with good intentions.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-networked-authoritarianism-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Networked Authoritarianism
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T160000
+UID:55@hope
+ATTENDEE;CN="Nathalie Maréchal";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:in
+ valid:nomail
+DESCRIPTION:Speaker: Nathalie Maréchal\n\nNearly two years into the Trump
+  administration\, it’s practically a cliche of Twitter gallows humor to 
+ quip that the day’s bonkers headlines are the result of a Marvel-esque p
+ lot twist that has transported us into a parallel universe. But of course\
+ , powerful forces have been laying the groundwork for a long time. Network
+ ed authoritarianism is a political system that leverages information and c
+ ommunications technologies (ICTs) and media regulation to carefully contro
+ l the expression of dissent in a way that gives the impression of limited 
+ freedom of expression without allowing dissent to gain traction. Networked
+  authoritarianism combines strategies and tactics from the surveillance ca
+ pitalism of Silicon Valley and from the information controls practiced by 
+ illiberal regimes around the world to create strategic infrastructures to 
+ control information flows domestically and to intervene in global media sy
+ stems. The democratic regression and rise of ethno-nationalism around the 
+ world is directly linked to networked authoritarianism. How did we get to 
+ this point\, and how do we fight back?
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-networked-authoritarianism-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Cryptography
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T230000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T000000
+UID:56@hope
+ATTENDEE;CN="George Tankersley";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inv
+ alid:nomail
+ATTENDEE;CN="Filippo Valsorda";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inva
+ lid:nomail
+DESCRIPTION:Speaker: George Tankersley\, Filippo Valsorda\n\nCryptography 
+ is usually associated with encrypting and signing messages\, but since the
+  1990s\, the field developed new tools that bring completely new capabilit
+ ies: from PAKE protocols that make bruteforcing passwords impossible\, to 
+ zero-knowledge proofs enabling blind credentials. This talk will take a lo
+ ok at all those things modern cryptography can do beyond the old encryptio
+ n and signatures.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-new-cryptography-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NotPetya: Ransomware vs. Cyber Action
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T130000
+UID:57@hope
+ATTENDEE;CN="Roel Schouwenberg";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inv
+ alid:nomail
+DESCRIPTION:Speaker: Roel Schouwenberg\n\nThe NotPetya "ransomware" made t
+ he headlines last summer because it spread widely and hit major logistics 
+ supply chain companies. It caused $10 billion in overall damages. This pre
+ sentation will dissect the technical\, disinformation\, and influence oper
+ ation components of this extremely effective and misunderstood campaign.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-notpetya-ransomware-vs-cyber-actio
+ n-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Onion Report
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T130000
+UID:58@hope
+ATTENDEE;CN="David Goulet";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+ATTENDEE;CN="Alison Macrina";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+ATTENDEE;CN="Steph Whited";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+ATTENDEE;CN="Matthew Finkel";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+DESCRIPTION:Speaker: David Goulet\, Alison Macrina\, Steph Whited\, Matthe
+ w Finkel\n\nThe Tor Project has been hard at work building usable free sof
+ tware to fight surveillance and censorship across the globe. Join a handfu
+ l of Tor contributors at this panel and learn all about the state of the o
+ nion and what Tor has been up to since the last HOPE. They’ll talk about
+  adding new security features\, improving Tor Browser on Android\, deployi
+ ng the next generation of onion services\, making Tor more usable\, loweri
+ ng the network overhead\, making Tor more maintainable\, and growing the T
+ or community with new outreach initiatives. They’ll also share some of w
+ hat you can expect from Tor in the coming year\, and will leave lots of ti
+ me for questions from the community.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-the-onion-report-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Online Monitoring of the Alt-Right
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T180000
+UID:59@hope
+ATTENDEE;CN="Caroline Sinders";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inva
+ lid:nomail
+ATTENDEE;CN="Freddy Martinez";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inval
+ id:nomail
+DESCRIPTION:Speaker: Caroline Sinders\, Freddy Martinez\n\nOnline communit
+ ies have become a popular recruitment platform for alt-right and other ext
+ remist groups. While there is no standard playbook for alt-right recruitme
+ nt\, some major themes emerge\, including recruiting on Discord servers\, 
+ Reddit boards\, Chan boards\, and other platforms. Effectively\, there is 
+ a web of overlap linking these disparate sites under the umbrella of the l
+ arger alt-right ideology and ethos. This talk is part how-to and part expl
+ anatory on research conducted by the speakers. It will cover some of the t
+ echnical and ethnographic methods that are being used by researchers\, act
+ ivists\, journalists\, and others to monitor the evolving ecosystem\, ideo
+ logies\, tools\, and tactics of the alt-right. The discussion will include
+  some of the tooling that developed to monitor the alt-right and their onl
+ ine communities: both online and off. Also included will be coverage of th
+ e analysis that was performed alongside Unicorn Riot on analyzing thousand
+ s of leaked Discourse chats\, as well as a dictionary of alt-right terms a
+ nd memes that Caroline has been assembling from her research. Finally\, th
+ e talk will focus on future concerns for the Internet\, including safety\,
+  censorship\, etc.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-online-monitoring-of-the-alt-right
+ -
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenOversight: XKEYSCORE for Cops - Tracking and Surveilling Your 
+ Local Police Department
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T110000
+UID:60@hope
+ATTENDEE;CN="Jennifer Helsby";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inval
+ id:nomail
+ATTENDEE;CN="Camille Fassett";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inval
+ id:nomail
+DESCRIPTION:Speaker: Jennifer Helsby\, Camille Fassett\n\nThrough highly s
+ ophisticated surveillance technology from drones and license plate readers
+  to facial recognition\, law enforcement agencies have sweeping and unprec
+ edented abilities to compile databases of the people. But despite these ca
+ pabilities and the prevalence of police abuse of power\, the public is lar
+ gely left in the dark about law enforcement and their activities. In this 
+ political context\, it’s on the people to hold police accountable\, and 
+ surveillance technology and data collection are methods that should not be
+  unilaterally in the hands of law enforcement. OpenOversight is a project 
+ developed by data liberation collective Lucy Parsons Labs that consolidate
+ s police information from public records\, public submissions\, and web sc
+ raping into an open-source\, community governed database. In this session\
+ , Jennifer and Camille will discuss how it works\, how you can bring it to
+  your city\, and what’s next.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-openoversight-xkeyscore-for-cops-t
+ racking-and-surveilling-your-local-police-department-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Owning NFC Toys I Own: A Case Study
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T160000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T170000
+UID:61@hope
+ATTENDEE;CN="Vitorio Miliano";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inval
+ id:nomail
+DESCRIPTION:Speaker: Vitorio Miliano\n\nNFC toys are figurines with a buil
+ t-in near-field communication tag\, containing supporting data for games o
+ r play. Reading from and writing to these figures is restricted\; you can 
+ buy the toy\, but only special hardware or software can fully use it\, not
+  you! This introductory-level case study will explore the NFC tags found i
+ n three makes of toys\, using off-the-shelf hardware and software. You’l
+ l see how much can be learned with each different tool\, and once read/wri
+ te credentials are obtained\, what some of the legal risks are under the D
+ MCA. Original documentation and code will be presented to generate credent
+ ials for any of the three makes of NFC toys\, and NFC toys will be distrib
+ uted for attendees to explore on their own.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-owning-nfc-toys-i-own-a-case-study
+ -
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Phone System Is Dead - Long Live The Phone System!
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T130000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T140000
+UID:62@hope
+ATTENDEE;CN=TProphet;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+DESCRIPTION:Speaker: TProphet\n\nAt the dawn of the modern era of telecomm
+ unications\, the underlying SS7 protocol was a marvel of modern engineerin
+ g. For decades\, it was the technology underneath almost every phone call\
+ , routing conversations securely and efficiently across the planet. And th
+ en\, almost overnight\, everything changed. The Internet converged with th
+ e phone system. This happened very fast and caused serious problems. These
+  days\, SS7 is the bane of every telecommunications engineer’s existence
+  and is often the root cause of poor telecom security. In this talk\, TPro
+ phet will take you around the world and across the telecommunications land
+ scape to explore the past\, present\, and - hopefully - future of the phon
+ e system.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-the-phone-system-is-dead-long-live
+ -the-phone-system-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phonopticon: Leveraging Low Rent Mobile Ad Services to Achieve Sta
+ te Actor Level Mass Surveillance on a Shoestring Budget
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T200000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T210000
+UID:63@hope
+ATTENDEE;CN="Mark Milhouse (amne51ac)";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIP
+ ANT:invalid:nomail
+DESCRIPTION:Speaker: Mark Milhouse (amne51ac)\n\nBy now\, we all know that
+  mobile advertisements aren’t secure. How would an attacker take advanta
+ ge of that\, though\, and spy on people without their consent\, knowledge\
+ , or interaction? And how do we defend against that? This talk will be a j
+ ourney through the demand-side of advertising as we put ourselves in the r
+ ole of an attacker\, build an ad-based surveillance system\, and unleash i
+ t on the masses. Mark will demonstrate how\, using the built-in features o
+ f advertising demand-side platforms (DSPs)\, it’s easy to build a survei
+ llance system that can track unsuspecting people. He’ll demonstrate that
+  some platforms make it much easier than it needs to be\, and show that th
+ ere’s more than just geolocations at risk here. Finally\, Mark will disc
+ uss some ways that everyone can help mitigate this\, from the users all th
+ e way up to the ad networks and software developers. Like every good spy s
+ tory\, this one includes Russian ad networks\, hastily written code\, and 
+ GPS coordinates - lots of GPS coordinates. By now\, if you’re still clin
+ ging desperately to the hope that your location is safe\, then this talk i
+ s for you!
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-phonopticon-leveraging-low-rent-mo
+ bile-ad-services-to-achieve-state-actor-level-mass-surveillance-on-a-shoes
+ tring-budget-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Problem With The Hacker Mystique
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T120000
+UID:64@hope
+ATTENDEE;CN="Gillian 'Gus' Andrews";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT
+ :invalid:nomail
+DESCRIPTION:Speaker: Gillian "Gus" Andrews\n\nThere are common themes in t
+ he stories of those of us who have grown up in hacker communities. We show
+  up as teenagers\, excited by the sexiness\, the secrecy\, the possibility
+  of meeting the legends who performed powerful spells of tech - or working
+  those spells ourselves. Maybe working at the edge of the law. Maybe we’
+ ll even change the laws as we hack. As we get older\, digital security tak
+ es on different roles in our stories. For some of us\, it remains a fun th
+ ing to do with friends. For others\, it’s a political cause. For some\, 
+ it’s the meat and potatoes of our jobs. And for others\, digital securit
+ y has become very\, very unsafe. Or it was always unsafe\, and the dangero
+ us storylines are just now becoming clear. This talk will discuss componen
+ ts of hacking and security - technical expertise\, secrecy\, illegality\, 
+ idiosyncrasy\, and trust - that contributed to a mystique which until rece
+ ntly hid years of abuse by a number of hacking "rock stars." Gus will expl
+ ore the psychological and institutional reasons why our communities let th
+ em keep acting that way\, and ask some hard questions: are there aspects o
+ f hacking and infosec which make abusive experts difficult to avoid? What 
+ parts of the hacker mystique will we need to give up in order to make our 
+ community resistant to being trashed like rock stars’ hotel rooms?
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-the-problem-with-the-hacker-mystiq
+ ue-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programming 1980s Lego Robotics
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T110000
+UID:65@hope
+ATTENDEE;CN="Evan Koblentz";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+DESCRIPTION:Speaker: Evan Koblentz\n\nEveryone knows about Lego’s presen
+ t-day Mindstorms robotics system. It is very popular\, eminently hackable\
+ , and quite expensive. But virtually nobody knows that Lego also produced 
+ a robotics kit in the 1980s! It was only sold to schools and few ever boug
+ ht it. Programs were developed on your choice of an Apple II or an IBM PC\
+ , using languages such as BASIC\, LOGO\, or assembly. Although the program
+ ming techniques are vintage\, not modern\, they’re easy to understand. E
+ van will show several examples\, explain how it all works and why it works
+ \, and will teach how anyone can obtain or replicate the 1980s kit for the
+ ir own modern fun at home.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-programming-1980s-lego-robotics-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Protecting Whistleblowers: An In-Depth Look Within the GlobaLeaks 
+ Platform
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T130000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T140000
+UID:66@hope
+ATTENDEE;CN="Michael Casadevall";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:in
+ valid:nomail
+DESCRIPTION:Speaker: Michael Casadevall\n\nAsk yourself: Have you ever tho
+ ught about what it takes to protect a whistleblower? In the world of whist
+ leblowing\, as counterintuitive as it seems\, it’s frequently required t
+ hat the whistleblowers must personally identify themselves and document th
+ eir knowledge. To protect against reprisals\, not only must a whistleblowe
+ r secure their identity\, but a receiving organization must secure their i
+ nformation. To help resolve these issues\, the GlobaLeaks platform is desi
+ gned from the ground up to tackle problems in secure whistleblowing by pro
+ viding a simple turnkey system that even non-technical users can successfu
+ lly deploy and operate. This talk will look under the hood of GlobaLeaks\,
+  a free and open-source whistleblowing solution\, and see how they work to
+  protect sensitive information about whistleblowers.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-protecting-whistleblowers-an-in-de
+ pth-look-within-the-globaleaks-platform-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qubes OS: The Operating System That Can Protect You Even If You Ge
+ t Hacked
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T160000
+UID:67@hope
+ATTENDEE;CN="Micah Lee";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nom
+ ail
+DESCRIPTION:Speaker: Micah Lee\n\n"If you’re serious about security\, Qu
+ bes OS is the best OS available today\," says NSA whistleblower Edward Sno
+ wden. "It’s what I use\, and free." In most operating systems like Windo
+ ws\, macOS\, and all Linux distributions\, all it takes is one mistake - o
+ pen the wrong PDF\, plug in the wrong USB stick\, "curl | bash" the wrong 
+ URL - and it’s game over. Even without root\, the attacker can access al
+ l of your data\, take screenshots\, listen through your mic\, watch you th
+ rough your webcam\, and get persistence to spy on you in the future. Qubes
+  OS aims to be a reasonably secure operating system that doesn’t have th
+ is problem. In Qubes\, your host machine runs a thin layer of software for
+  managing a graphical desktop environment and all other software is compar
+ tmentalized in separate virtual machines\, with strict controls on what ha
+ rdware they can access and how they can communicate\, all while being usab
+ le enough to run as your daily OS. In this talk\, Micah will show off some
+  of the cool things that this approach makes possible\, like opening email
+  attachments in "disposable VMs\," managing anonymous identities\, keeping
+  secrets like password databases\, PGP keys\, and sensitive documents stor
+ ed in vaults without Internet access\, and much more. Beginners are welcom
+ e.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-qubes-os-the-operating-system-that
+ -can-protect-you-even-if-you-get-hacked-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radio Statler! A Decade of Doing it Live!
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T210000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T220000
+UID:68@hope
+ATTENDEE;CN=Beaches;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+ATTENDEE;CN=Nikgod;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+ATTENDEE;CN=TechDarko;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomai
+ l
+ATTENDEE;CN=Bunni3Burn;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:noma
+ il
+ATTENDEE;CN="Johnny Xmas";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+ATTENDEE;CN="Nite 0wl";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:noma
+ il
+ATTENDEE;CN=Sidepocket;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:noma
+ il
+ATTENDEE;CN=Stoppay;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+ATTENDEE;CN=xio;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+DESCRIPTION:Speaker: Beaches\, Nikgod\, TechDarko\, Bunni3Burn\, Johnny Xm
+ as\, Nite 0wl\, Sidepocket\, Stoppay\, xio\n\nSince 2008\, Radio Statler h
+ as been broadcasting original content from HOPE to the rest of the world. 
+ Content has included interviews with speakers\, extended Q&As\, panels\, i
+ nteresting people found in the hallways\, and the occasional glimpse into 
+ the things that happen outside the talk rooms. Join this panel as they def
+ initely stay on topic and tell the how and why of Radio Statler\, the chal
+ lenges of setting up a temporary online radio station\, and lots of storie
+ s!
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-radio-statler-a-decade-of-doing-it
+ -live-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reverse Engineering a Portable USB Firewall Appliance and Its Hard
+ ware Improved Recreation
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T180000
+UID:69@hope
+ATTENDEE;CN=Dernyn;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomail
+DESCRIPTION:Speaker: Dernyn\n\nIn this talk\, penetration/reverse engineer
+ ing techniques of both hardware and software will be demonstrated by break
+ ing into a portable "secure" Linux-based firewall device’s firmware\, wh
+ ich will then be recreated and improved with a Linux single board computer
+ . The original device provides anti-virus\, anti-spam\, anti-spyware\, int
+ rusion detection and prevention\, VPN client and website filtering\, and p
+ arental control - and it all runs on a computer the size of a pack of gum.
+  Dernyn will provide a step-by-step tutorial on how to gain full access to
+  the inner workings of this discrete dedicated Linux-based ARM mini-comput
+ er firewall appliance. There will be a full analysis of its inner workings
+ \, with a dissection of the electronics and implemented system and softwar
+ e infrastructure\, networking/firewall policies\, and an overall security 
+ level analysis focusing on the lack of protection/security which the manuf
+ acturer claimed as Pentagon level protection.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-reverse-engineering-a-portable-usb
+ -firewall-appliance-and-its-hardware-improved-recreation-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Right to Repair Panel
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T130000
+UID:70@hope
+ATTENDEE;CN="Nathan Proctor";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+ATTENDEE;CN="Gay Gordon-Byrne";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inva
+ lid:nomail
+ATTENDEE;CN="Kyle Wiens";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:no
+ mail
+DESCRIPTION:Speaker: Nathan Proctor\, Gay Gordon-Byrne\, Kyle Wiens\n\nIt
+ ’s time we restored ownership rights in a digital world\, and that begin
+ s with letting us fix our electronics. As companies work to monopolize rep
+ air\, use copyright law to block access to what we need to fix things\, an
+ d design products that cannot be repaired\, leaders from Right to Repair w
+ ill share stories on how people are pushing back. They will give a present
+ ation on the current state of Right to Repair legislation across the count
+ ry and concurrent efforts with the U.S. Copyright Office Section 1201 exem
+ ptions to the DMCA. The discussion will include legal principles behind Ri
+ ght to Repair\, including antitrust\, contract law\, warranty law\, and ho
+ w EULA and the DMCA have been weaponized to remove key intrinsic rights of
+  ownership.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-the-right-to-repair-panel-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scientific and Amateur Analysis of the Facebook Algorithm
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T200000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T210000
+UID:71@hope
+ATTENDEE;CN="Claudio Agosti";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+DESCRIPTION:Speaker: Claudio Agosti\n\nThe algorithm gives a personalized 
+ experience to each of us: the only way to understand its agenda\, prioriti
+ es\, and values is through collective observation. With the https://facebo
+ ok.tracking.exposed project\, Claudio did some black box testing of the Fa
+ cebook algorithm. It can be replicated by other researchers or among your 
+ group of friends. Spoiler: there is no algorithm neutrality\; every user s
+ hould be in control of their algorithm.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-scientific-and-amateur-analysis-of
+ -the-facebook-algorithm-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Securing the Delivery of Email
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T150000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T160000
+UID:72@hope
+ATTENDEE;CN="Sydney Li";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nom
+ ail
+DESCRIPTION:Speaker: Sydney Li\n\nIn early 2014\, research revealed the ho
+ rrible state of email over TLS. About half of email was sent in plaintext 
+ and\, for the email sent over TLS\, half of those servers presented certif
+ icates that were invalid or self-signed. On top of this\, some governments
+  and ISPs were regularly downgrading SMTP connections to plaintext. Since 
+ then\, there have been multiple efforts by IETF and large mail server oper
+ ators to secure the delivery of email. This talk will summarize the state 
+ of secure email delivery in 2018 and discuss ongoing initiatives and effor
+ ts to protect against MitM and downgrade attacks\, including MTA-STS\, DAN
+ E\, and STARTTLS Everywhere.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-securing-the-delivery-of-email-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sensors Everywhere! What’s Available\, How They Work\, and How Y
+ ou Can Use Them
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T190000
+UID:73@hope
+ATTENDEE;CN="Jonathan Foote";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+DESCRIPTION:Speaker: Jonathan Foote\n\nFrom the IR sensor in the bathroom 
+ to the face detector in your phone\, sensors are everywhere. Jonathan will
+  give a guided introduction to the vast zoo of electronic sensors availabl
+ e. From commonplace accelerometers to sensitive pulse oxygen meters\, come
+  learn about a wide variety of sensors\, how they work\, and how you can u
+ se (or hack) them. He will cover sensors from the commonplace to the exoti
+ c: optical sensors including affordable lidar\, UV\, and passive IR\; magn
+ etic and inductive sensors\; MEMS pressure gauges and microphones\; positi
+ on and location detection\; force\, flex and strain gauges\; temperature s
+ ensors and thermistors\; and a variety of health and biosensors. Though th
+ is talk is at the level an electronics hobbyist will enjoy\, even experts 
+ will likely find something they haven’t seen before.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-sensors-everywhere-what-s-availabl
+ e-how-they-work-and-how-you-can-use-them-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sex Geek Returns: Hacking Plus Human Sexuality AMA
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T130000
+UID:74@hope
+ATTENDEE;CN="Kit Stubbs";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:no
+ mail
+DESCRIPTION:Speaker: Kit Stubbs\n\nGot a burning question about sex? Curio
+ us about making your own silicone sex toys? Not sure of the difference bet
+ ween "biological sex" and gender? Wonder how you might start hacking a sto
+ re-bought sex toy? In this session\, Kit presents "I’m A Queer\, Non-Bin
+ ary\, Disabled Trans Femme Originally From Missouri Who Makes Their Own Ge
+ eky Sex Toys And Runs A Sex-Positive Nonprofit: Ask Me Anything." Join Kit
+  "where did this b!tch get [their] doctorate" Stubbs for their very first 
+ AMA! It’ll start with a quick survey of topics to get your ideas flowing
+ \, including sex and gender\, technological empowerment for sexuality and 
+ pleasure\, and DIY toys. Then the floor will be opened for your questions.
+  Whether you’re ready to ask a question or just happy to listen\, join t
+ his celebration of hacking and human sexuality!
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-the-sex-geek-returns-hacking-plus-
+ human-sexuality-ama-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sex Worker Rights and Internet Freedom
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T150000
+UID:75@hope
+ATTENDEE;CN="Maggie Mayhem";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid
+ :nomail
+DESCRIPTION:Speaker: Maggie Mayhem\n\nDigital media and communications tec
+ hnologies have been a critical component in improving the working conditio
+ ns\, health\, and safety of sex workers in many ways. Message boards and t
+ hriving social media communities created strong communication networks whe
+ re lifesaving information such as bad dates could be disseminated among pe
+ er networks to protect those in the sex trade from harm and find supportiv
+ e allies. In recent years\, sex worker rights have been systematically ero
+ ded in the name of combating human trafficking\, despite a lack of evidenc
+ e to justify these actions and the fallout they cause. The recent passage 
+ of the Stop Enabling Sex Traffickers Act (SESTA) not only continues this d
+ angerous trend\, it places human trafficking victims at greater risk and j
+ eopardizes Internet freedom for all by eliminating Section 230 of the Comm
+ unications Decency Act. With online platforms open to civil and criminal l
+ iability for third party content\, it is inevitable that mass censorship w
+ ill follow and marginalized voices will face the steepest penalties.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-sex-worker-rights-and-internet-fre
+ edom-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snowden’s Critical Fuckin’ Flaw
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T220000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T230000
+UID:76@hope
+ATTENDEE;CN="Johannes Grenzfurthner";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPAN
+ T:invalid:nomail
+DESCRIPTION:Speaker: Johannes Grenzfurthner\n\nBack in the good old days o
+ f 2015\, Shami Chakrabarti wrote an opinion piece for The Guardian\, stati
+ ng that Edward Snowden "is a hero." She claimed that saying so didn’t ma
+ ke her an apologist for terror\; it made her a firm believer in democracy 
+ and the rule of law. Many saw and still see it this way. Snowden\, the tru
+ e protector of freedom! It’s heard frequently in hacker circles\, echoin
+ g like a prayer in a church. He’s a freedom fighter\, standing for the A
+ merican ideal\, codified in the Constitution. The state apparatus\, not Sn
+ owden\, deserves our disgust and derision. Johannes thinks a fatal misconc
+ eption is going on\, and that we have to talk about it because way too man
+ y people step on this ideological turd. He will try to explain what the fa
+ llacy is and use a lot of curse words doing so.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-snowden-s-critical-fuckin-flaw-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Engineering
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T160000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T170000
+UID:77@hope
+ATTENDEE;CN="Emmanuel Goldstein and friends";CUTYPE=INDIVIDUAL;ROLE=REQ-PA
+ RTICIPANT:invalid:nomail
+DESCRIPTION:Speaker: Emmanuel Goldstein and friends\n\nOne of HOPE's longe
+ st running traditions\, this panel is a fun gathering where stories of soc
+ ial engineering triumphs and failures are shared. Social engineering is\, 
+ of course\, the subsection of hacking that focuses on obtaining informatio
+ n out of people by gaining their trust and lying through your teeth.  As l
+ ong as there's a human somewhere in the equation\, this method of compromi
+ sing security will always be possible. Techniques will be shared and an ex
+ periment or two will be performed live over our trusty landline.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-social-engineering-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SpellCheck: The Hacker Spelling Bee
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T130000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T140000
+UID:78@hope
+ATTENDEE;CN="Jennifer Helsby";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inval
+ id:nomail
+DESCRIPTION:Speaker: Jennifer Helsby\n\nEnglish is a messy language\, and 
+ no amount of spellcheck can stop you from writing about "security breeches
+ " or "rouge towers." Come witness your peers bravely seek the redemption t
+ hey’ve hoped for since elementary school as they battle through increasi
+ ngly difficult security terms for fun and a moderate prize. The bee will w
+ arm up with "asset" and "bypass" and work its way up to rounds where capit
+ alization will count and determine the winner. The wordlist is based off o
+ f the most recent version of the Cybersecurity Style Guide at http://bit.l
+ y/securitywords.  Twenty spellers total will participate. You can sign up 
+ in advance at the Info Desk during the conference. A complete list of rule
+ s for the SpellCheck bee will be available there.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-spotlight-on-securedrop-anonymous-
+ whistleblowing-in-the-trump-era-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spotlight on SecureDrop: Anonymous Whistleblowing in the Trump Era
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T130000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T140000
+UID:79@hope
+ATTENDEE;CN="Jennifer Helsby";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inval
+ id:nomail
+DESCRIPTION:Speaker: Jennifer Helsby\n\nThe SecureDrop anonymous whistlebl
+ owing platform has become the journalism industry standard for communicati
+ ng with anonymous sources and accepting high security leaks. The system wa
+ s co-created by the late Aaron Swartz and first announced at HOPE four yea
+ rs ago. Each SecureDrop instance is physically hosted inside a news organi
+ zation\, and sources communicate with journalists by accessing a web appli
+ cation available over a Tor onion service. In the past two years\, adoptio
+ n has increased to include most major new organizations\, including The As
+ sociated Press\, USA Today\, and The Wall Street Journal. This talk will c
+ over the challenges SecureDrop administrators\, journalists\, and sources 
+ are facing\, how SecureDrop has been scaled to more organizations\, and pr
+ ogress in developing new tools for journalists to work with leaked documen
+ ts\, including a Qubes OS-based workstation. In the Trump era - during whi
+ ch the Department of Justice has issued a crackdown on whistleblowing in r
+ esponse to the current epidemic of leaks from the White House - secure com
+ munication tools like SecureDrop are more important than ever before.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-spotlight-on-securedrop-anonymous-
+ whistleblowing-in-the-trump-era-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surveillance Architecture: 21st Century Surveillance and the Tools
+  to Fight Back
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T200000
+UID:80@hope
+ATTENDEE;CN=simplymathematics;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inval
+ id:nomail
+DESCRIPTION:Speaker: simplymathematics\n\nIn the last decade\, we’ve lea
+ rned a lot about the ways in which state surveillance is conducted - the s
+ tate has likewise hardened their approach. This talk will examine solution
+ s to this mass surveillance in the context of community-controlled infrast
+ ructure. In particular\, the roles that encrypted messaging\, distributed 
+ file systems\, and mesh networking play in fighting back against the ever 
+ encroaching Skynet will be examined.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-surveillance-architecture-21st-cen
+ tury-surveillance-and-the-tools-to-fight-back-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surveillance Psychiatry and the Mad Underground
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T130000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T140000
+UID:81@hope
+ATTENDEE;CN="Jonah Bossewitch";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inva
+ lid:nomail
+DESCRIPTION:Speaker: Jonah Bossewitch\n\nSurveillance psychiatry is an eme
+ rging practice which seeks to predict and prevent mental illness across a 
+ broad population by using algorithms and big data. A new generation of dig
+ ital systems for policing normal are currently in beta and will soon enabl
+ e authorities to control all modes of social deviance and protest. Electro
+ nic health records\, data mining social networks\, and even algorithmicall
+ y classifying video surveillance will significantly amplify this approach.
+  Researchers are claiming they can diagnose depression based on the color 
+ and saturation of photos in your Instagram feed - and predict manic episod
+ es based on your Facebook status updates.  Corporations and governments ar
+ e salivating at the prospect of identifying vulnerability and dissent. Alt
+ hough they will carefully use the language of suicide and violence prevent
+ ion\, these lines are not so clear. When algorithms are scrutinizing our t
+ weets to determine who is crazy\, it will become increasingly difficult to
+  avoid a diagnosis.  But there is hope. In this millennium\, a new wave of
+  mad resistance has emerged - the Mad Underground\, a thriving network of 
+ mental health activists who are developing innovative strategies for resis
+ ting psychiatric domination and creating new models of community driven em
+ otional support. By listening to their voices and understanding their visi
+ ons\, we can diffuse the menacing time bomb of big data surveillance psych
+ iatry before it explodes\, putting the depths of our emotions in the realm
+  of public consumption and subjecting us to new forms of oppression.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-surveillance-psychiatry-and-the-ma
+ d-underground-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Warrior Camp at Standing Rock: Lessons for Keeping the Lights
+  On and the Livefeeds Streaming
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T110000
+UID:82@hope
+ATTENDEE;CN="Lisha Sterling";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+DESCRIPTION:Speaker: Lisha Sterling\n\nIn 2016 and early 2017\, tens of th
+ ousands of people gathered in camps on land near and on the Standing Rock 
+ Sioux Reservation in an attempt to stop the construction of the Dakota Acc
+ ess Pipeline. At one point\, the camps made up the third largest "city" in
+  North Dakota\, and yet there was no mains electricity\, telephone service
+ \, or plumbing. Law enforcement and private security used continuous "low 
+ intensity warfare" tactics on this temporary community on the plains. The 
+ Tech Warrior Camp\, led by Geeks Without Bounds\, built and maintained a w
+ ireless ISP for the camp\, as well as providing other technical support fo
+ r communications and digital security. They did this despite 60 plus mph w
+ inds and -20F temperatures. In this talk\, you can hear about some of the 
+ lessons gained from that experience\, along with models for building commu
+ nity ISPs that are resilient to both human adversaries and natural events.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-tech-warrior-camp-at-standing-rock
+ -lessons-for-keeping-the-lights-on-and-the-livefeeds-streaming-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Torrent More Pharmaceutical Drugs: File Sharing Still Saves Lives
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T120000
+UID:83@hope
+ATTENDEE;CN="Michael Laufer";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+DESCRIPTION:Speaker: Michael Laufer\n\nTwo years ago\, the Four Thieves Vi
+ negar Collective became public at The Eleventh HOPE after almost a decade 
+ of working underground\, and debuted the first generation of the Apothecar
+ y Microlab\, the open-source automated chemical reactor designed to synthe
+ size the active ingredients of pharmaceutical drugs. They synthesized Dara
+ prim onstage\, and called Martin Shkreli’s cell phone from stage. It was
+  a good time. Since then\, the reactor has developed\, and been involved i
+ n more complicated syntheses\, and hacking medical hardware. Most notably\
+ , they released plans for a DIY version of the EpiPen (the EpiPencil) that
+  anyone can make for $30 US. Come see the new releases they have planned\,
+  as well as the new beta unit. Learn how to make medicine from poison\, ho
+ w to use the shrouding of information about medicine to make custom-tailor
+ ed treatment programs for rare diseases\, and how to use public data to fi
+ nd new\, more efficient synthesis pathways for drugs. Hack your health. We
+  can torrent medicine. File sharing saves lives.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-torrent-more-pharmaceutical-drugs-
+ file-sharing-still-saves-lives-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tor: The Dark Arts of Attack and Defense
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T150000
+UID:84@hope
+ATTENDEE;CN="EOF (Hunter Rogers)";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:i
+ nvalid:nomail
+DESCRIPTION:Speaker: EOF (Hunter Rogers)\n\nThis talk discusses modern pra
+ ctical attacks on the Tor anonymity network. The topics include penetratin
+ g Tor hidden services and infrastructure\, as well as open-source intellig
+ ence\, operational security\, social engineering\, and client side exploit
+ ation as they relate to the Tor network. Real-world examples are examined\
+ , and methods of self-defense are explored. This discussion will arm the a
+ udience with the knowledge they will need to engineer attack-resilient ano
+ nymous ecosystems\, and to defend their liberty\, their lives\, and their 
+ human rights of privacy\, anonymity\, and free speech in an age of ubiquit
+ ous surveillance.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-tor-the-dark-arts-of-attack-and-de
+ fense-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tracing Invisible Neighborhoods: The Brooklyn Pirate Radio Sound M
+ ap
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T140000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T150000
+UID:85@hope
+ATTENDEE;CN="David Goren";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+DESCRIPTION:Speaker: David Goren\n\nEvery day in Brooklyn\, over 30 unlice
+ nsed radio stations fire up their transmitters and take to the air. Histor
+ ically known as pirates\, they crowd onto an already packed FM dial\, beam
+ ing transgressive culture-bearing signals into West Indian\, Orthodox Jewi
+ sh\, and Latino neighborhoods. The sound map project seeks to explore and 
+ understand the forces that drive these stations\, the conditions they oper
+ ate under\, the needs of their audiences\, and their effect on licensed st
+ ations. The Brooklyn Pirate Radio Sound Map (BPRSM) is an interactive arch
+ ival home for intensely local\, neighborhood focused radio programming.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-tracing-invisible-neighborhoods-th
+ e-brooklyn-pirate-radio-sound-map-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trolling\, Free Speech\, and the Hacking of Our Media/Attention La
+ ndscape
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T220000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T230000
+UID:86@hope
+ATTENDEE;CN="Matt Goerzen";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+ATTENDEE;CN="Joan Donovan";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+ATTENDEE;CN="Jeanna Matthews";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inval
+ id:nomail
+DESCRIPTION:Speaker: Matt Goerzen\, Joan Donovan\, Jeanna Matthews\n\nTrol
+ ls are attention hackers\, using social and technical means to bait journa
+ lists\, set agendas\, game media gatekeepers\, and direct audiences. This 
+ panel of members of the media manipulation team at Data & Society will con
+ sider the relationship between trolling and hacking\, free speech\, and th
+ e implications for our media/attention landscape. Matt will focus on hacke
+ rs who have used trolling techniques to disclose vulnerabilities and elici
+ t public pressure. Joan will talk about source hacking techniques\, a tact
+ ic where groups coordinate to feed false information to journalists and ex
+ perts\, often during times of crisis. Jeanna will discuss the relationship
+  between free speech\, amplification of speech through platform and media 
+ manipulation\, and the implication of possible interventions. The floor wi
+ ll be open to comments\, questions\, and a discussion which hopefully will
+  continue beyond the session itself.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-trolling-free-speech-and-the-hacki
+ ng-of-our-media-attention-landscape-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trolling the Trolls and the Trolls That Troll Them
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T190000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T200000
+UID:87@hope
+ATTENDEE;CN="'Da Beave'";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:no
+ mail
+ATTENDEE;CN="'Faux Real'";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+DESCRIPTION:Speaker: 'Da Beave'\, 'Faux Real'\n\nIt has been said that Twi
+ tter bots and trolls helped Russia influence the United States 2016 presid
+ ential election. Looking towards the 2018 midterm elections\, many voters\
+ , politicians\, and government agencies are anxious and uncertain of what 
+ may come: "How might another nation influence our election?" "Might the po
+ tential for electoral interference persuade some politicians to preemptive
+ ly ‘get on board’ with those who may influence the political outcomes?
+ " The torrent of news broadcasts and research publications on the subjects
+  of social media manipulation have led to greater confusion in some respec
+ ts. This talk covers aggressive research conducted over the last year focu
+ sing on bots\, fake news\, and hate speech on Twitter. This "aggressive re
+ search" uses methods and techniques that are directly at odds with the Twi
+ tter ToS. To best understand the motives and techniques of your adversary\
+ , it’s sometimes best to walk their shoes. Using and abusing Twitter API
+ \, using automation to engage suspicious accounts without using the API\, 
+ and engaging in "nontraditional" data collection methods (i.e.\, "social e
+ ngineering")\, 'Da Beave' and 'Faux Real' have been collecting and analyzi
+ ng a wide range of data related to their targets. The methods employed hav
+ e enabled them to gain a wider perspective than any amount of social media
+  data alone could provide\, and these techniques have allowed them to brin
+ g some of the "trolls" and "bots" out of the dark and into the daylight. T
+ his talk covers what they did and how they did it. Source code will be rel
+ eased as an open-source project (GPLv2).
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-trolling-the-trolls-and-the-trolls
+ -that-troll-them-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Updates on I-Star Organizations from the Bullshit Police
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180721T100000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T110000
+UID:88@hope
+ATTENDEE;CN="Amelia Andersdotter";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:i
+ nvalid:nomail
+ATTENDEE;CN="Mehwish Ansari";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+ATTENDEE;CN="Avri Doria";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:no
+ mail
+ATTENDEE;CN="Mallory Knodel";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invali
+ d:nomail
+DESCRIPTION:Speaker: Amelia Andersdotter\, Mehwish Ansari\, Avri Doria\, M
+ allory Knodel\n\nA panel of experts\, technologists\, and lawyers will giv
+ e an update on several I-star organizations\, namely ICANN\, IETF\, IEEE\,
+  and ITU. Short presentations will touch on the major controversies in eac
+ h space as they relate to human rights\, namely freedom of expression and 
+ the right to privacy. Questions to the panel from the moderator will draw 
+ out the tensions and synergies of human rights considerations in Internet 
+ governance and standards setting across the I-star bodies. Questions from 
+ the audience are encouraged.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-updates-on-i-star-organizations-fr
+ om-the-bullshit-police-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U.S. and E.U. Legal Updates: Privacy\, Security\, and Liability
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T170000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T180000
+UID:89@hope
+ATTENDEE;CN="Alex Muentz";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:n
+ omail
+DESCRIPTION:Speaker: Alex Muentz\n\nWe’re seeing a lot of changes in pri
+ vacy law and security regulations in both the European Union and the Unite
+ d States. Some of these are beneficial\, while others may make us less saf
+ e and free. Alex will discuss the current state of GDPR (the E.U.’s Gene
+ ral Data Protection Regulation)\, recent U.S. SEC guidance on reporting se
+ curity breaches\, as well as the recently passed FOSTA-SESTA. Of course\, 
+ hypotheticals and Q&A will follow.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-u-s-and-e-u-legal-updates-privacy-
+ security-and-liability-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The U.S. Press Freedom Tracker: Documenting Attacks on the Press i
+ n the Age of Trump
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T210000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T220000
+UID:90@hope
+ATTENDEE;CN="Alexandra Ellerbeck";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:i
+ nvalid:nomail
+ATTENDEE;CN="Camille Fassett";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inval
+ id:nomail
+DESCRIPTION:Speaker: Alexandra Ellerbeck\, Camille Fassett\n\nLast August\
+ , a coalition of more than two dozen organizations dedicated to press free
+ dom came together to launch the U.S. Press Freedom Tracker\, a website tha
+ t systematically documents press freedom violations in the United States. 
+ When the tracker was launched\, it was never anticipated that more than 10
+ 0 cases would be logged in the first year. These cases show that Trump’s
+  heated rhetoric in D.C. is far from the only press freedom story. Instead
+ \, journalists face obstacles in courtrooms\, city halls\, and protests. I
+ nformation from the tracker has already identified concerning patterns\, s
+ uch as the fact that two-thirds of journalists arrested in 2017 were caugh
+ t up when police used a controversial tactic known as "kettling." It still
+  remains to be seen how much of Trump’s legal threats to journalists are
+  bluster\, but the press freedom tracker is rigorously documenting them\, 
+ along with the myriad of other threats that often go overlooked.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-the-u-s-press-freedom-tracker-docu
+ menting-attacks-on-the-press-in-the-age-of-trump-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Must Legislate to Block Collection of Personal Data
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T140000
+UID:91@hope
+ATTENDEE;CN="Richard Stallman";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inva
+ lid:nomail
+DESCRIPTION:Speaker: Richard Stallman\n\nWith surveillance so pervasive\, 
+ weak measures can only nibble around the edges. To restore privacy\, we ne
+ ed strong measures. Companies are so adept at manufacturing users’ conse
+ nt that the requirement hardly hampers their surveillance. This talk will 
+ discuss how what we need nowadays is to put strict limits on what data sys
+ tems can collect.
+LOCATION:Vaughan
+URL:https://www.hope.net/schedule.html#-we-must-legislate-to-block-collect
+ ion-of-personal-data-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Should Go into a dotMOBI Website?
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T110000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T120000
+UID:92@hope
+ATTENDEE;CN="The Cheshire Catalyst";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT
+ :invalid:nomail
+DESCRIPTION:Speaker: The Cheshire Catalyst\n\nThe dotMOBI TLD (Top Level d
+ omain) has been established for websites meant to be read on Mobile device
+ s (mobile phones and tablets). The Cheshire Catalyst (Richard Cheshire) wi
+ ll describe his thoughts on what design elements are needed to go into suc
+ h a website for usablity on not just the latest smartphones\, but on older
+  Feature Phones as well (ask Nokia how their new 3310 is doing). The web s
+ ite H12.Mobi will be used as an example.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-what-should-go-into-a-dotmobi-webs
+ ite-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Why Trade Secret Law Can’t Stop Hackers
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T180000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T190000
+UID:93@hope
+ATTENDEE;CN="Ed Ryan";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:nomai
+ l
+DESCRIPTION:Speaker: Ed Ryan\n\nPatent law can’t cover everything. In ca
+ ses where the publicity of a patent is too high a price to pay\, the law p
+ rovides protections against the "misappropriation" of trade secrets\, whic
+ h have no expiration date. Trade secret law has been strengthened in recen
+ t years to include federal protection and warrantless seizure of property.
+  This talk introduces the trade secret and industrial espionage laws and o
+ utlines the limitations of these laws in the face of a person intent on li
+ berating closely held secrets. It will cover the Defense of Trade Secrets 
+ Act of 2016\, including the provisions for "ex parte seizure" of property.
+  This talk is an academic discussion of trade secret law and should not be
+  construed as legal advice.
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-why-trade-secret-law-can-t-stop-ha
+ ckers-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Wizard Hat for Your Brain or What is a Brain Machine Interface?
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180722T120000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180722T130000
+UID:94@hope
+ATTENDEE;CN="Regina R. Monaco";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:inva
+ lid:nomail
+DESCRIPTION:Speaker: Regina R. Monaco\n\nA brain machine interface (BMI) i
+ s an electrical device that can be used for recording neuronal information
+  or signals from the brain. These devices come in three types: invasive\, 
+ semi-invasive\, and non-invasive. Non-invasive BMI devices record neural s
+ ignals from the surface of the scalp\, such as electroencephalograms (EEG)
+ . Semi-invasive BMI devices record from just underneath the scalp (ECoG)\,
+  and do not penetrate the brain. Invasive BMI\, such as an implanted micro
+ electrode array and electrode dust\, penetrate the brain and record signal
+ s directly from neurons. Their purpose? To attempt to communicate directly
+  with your brain. Although BMIs provide for many benefits\, such as allowi
+ ng patients with locked-in syndrome to communicate with the world or quadr
+ iplegics the ability to interact with the world\, people have to understan
+ d communication happens in both directions. It serves as an output device\
+ , however\, as in the use case for robotic control\, it can serve as a rec
+ eiver. If put in the wrong hands\, others can manipulate the very organ th
+ at makes you\, you. Is control of your mind a reasonable outcome to protec
+ t against? No group in our society is more equipped to answer this questio
+ n\, more able to understand this technology\, more qualified to call BS\, 
+ and more poised to protect us from this unprecedented privacy intrusion th
+ an hackers. We will also be the group poised and able to find bugs in the 
+ OS\, demonstrate how these devices can be hacked\, repurpose them to show 
+ how they may do the unexpected\, and - perhaps most importantly - engineer
+  and integrate controls and limits\, discover critical security vulnerabil
+ ities\, and make them clear to the public. The only safety we and the publ
+ ic have between us and corporate/government misuse of these devices is the
+  curious\, tenacious\, independent\, outspoken\, and resourceful hacker. T
+ his talk will discuss technical issues in the design of a BMI - how are mu
+ ltiple signal channels read\, how is noise in the system dealt with\, how 
+ signaling to and from neurons ("neural code") is understood\, how security
+  is currently implemented (clue: it’s not)\, and what the implications o
+ f this technology are (clues: far-reaching\, invasive\, privacy-destroying
+ ).
+LOCATION:Ritchie
+URL:https://www.hope.net/schedule.html#-a-wizard-hat-for-your-brain-or-wha
+ t-is-a-brain-machine-interface-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Blockchain Sucks
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T220000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180720T230000
+UID:95@hope
+ATTENDEE;CN="Glenn Willen";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT:invalid:
+ nomail
+DESCRIPTION:Speaker: Glenn Willen\n\nIt sure seems like everybody wants a 
+ blockchain these days\, doesn’t it? It started with finance\, but now we
+  have blockchain for books\, airlines\, advertising\, clinical trials\, en
+ ergy... and that’s just the first two pages of Google hits. But why does
+  everybody want a blockchain? There’s a ton of a lot of blockchain hype 
+ right now\, and frankly\, 95 percent of proposed blockchain projects are c
+ rap. So what precisely is a blockchain\, and why is it useful? Where did i
+ t come from\, what is it good for\, and - more importantly - what is it to
+ tally garbage at? And what kinds of bullshit are people trying to use it f
+ or that just doesn’t make any goddamned sense? Glenn is here to tell you
+  exactly why your blockchain sucks.
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-your-blockchain-sucks-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your IoT Roommate and You - Living with the Enemy
+DTSTART;TZID=US/Eastern;VALUE=DATE-TIME:20180720T230000
+DTEND;TZID=US/Eastern;VALUE=DATE-TIME:20180721T000000
+UID:96@hope
+ATTENDEE;CN="Michael 'Sveder' Sverdlin";CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICI
+ PANT:invalid:nomail
+DESCRIPTION:Speaker: Michael "Sveder" Sverdlin\n\nMore and more people\, h
+ ackers included\, are allowing IoT devices into their homes\, while simult
+ aneously not a week goes by without a new IoT botnet or an attack on and i
+ nvolving IoT devices. Time to talk about what the paranoid of us already k
+ now - how to live with your IoT roommates and keep your privacy\, security
+ \, and sanity. Michael will go through the story of his smart water heater
+  and how he’s slowly but surely making it more hacker friendly - from re
+ placing its permission hungry app\, to inspecting the software and the rem
+ ote API it insecurely communicates with\, and finally physically taking it
+  apart in order to make sure it doesn’t have added "features." The talk 
+ will include technical details about his device\, but more importantly it 
+ will contain strategies and ownership tips that will work on any other. Io
+ T devices are moving in - will you be prepared?
+LOCATION:Booth
+URL:https://www.hope.net/schedule.html#-your-iot-roommate-and-you-living-w
+ ith-the-enemy-
+END:VEVENT
+END:VCALENDAR
